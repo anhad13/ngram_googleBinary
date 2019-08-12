@@ -1,0 +1,5001 @@
+good_sent good_lprob bad_sent bad_lprob
+No university is hiring fewer than two men . 
+ -29.50723
+ No university is hiring at most two men . 
+ -34.31364
+
+No guy would impress more than five libraries . 
+ -36.157993
+ No guy would impress at least five libraries . 
+ -37.900105
+
+No waitress did worry fewer than four libraries . 
+ -41.132153
+ No waitress did worry at most four libraries . 
+ -39.84995
+
+No doctor has revealed more than two paintings . 
+ -32.477306
+ No doctor has revealed at least two paintings . 
+ -27.215422
+
+No patient was attacking more than five men . 
+ -29.489784
+ No patient was attacking at least five men . 
+ -30.35703
+
+No man had attacked more than nine drivers . 
+ -37.21773
+ No man had attacked at least nine drivers . 
+ -39.589886
+
+No child was skated around fewer than eight libraries . 
+ -49.019123
+ No child was skated around at most eight libraries . 
+ -50.349735
+
+No customer had concealed more than four cashiers . 
+ -39.882828
+ No customer had concealed at least four cashiers . 
+ -41.699265
+
+No hamster has concealed fewer than five guys . 
+ -40.506603
+ No hamster has concealed at most five guys . 
+ -41.10745
+
+No actor could talk to more than five ladies . 
+ -35.271652
+ No actor could talk to at least five ladies . 
+ -32.71845
+
+No lady is complaining about more than ten children . 
+ -33.18675
+ No lady is complaining about at least ten children . 
+ -33.72291
+
+No dancer dropped by fewer than seven malls . 
+ -45.034832
+ No dancer dropped by at most seven malls . 
+ -43.95089
+
+No customer bought more than three cars . 
+ -19.771883
+ No customer bought at least three cars . 
+ -22.73369
+
+No senator had kissed fewer than seven actresses . 
+ -44.880337
+ No senator had kissed at most seven actresses . 
+ -45.734894
+
+No rabbit has climbed up more than seven mountains . 
+ -39.848988
+ No rabbit has climbed up at least seven mountains . 
+ -40.54438
+
+No doctor explored fewer than seven lakes . 
+ -26.680492
+ No doctor explored at most seven lakes . 
+ -34.115852
+
+No gate disgusted fewer than eight governments . 
+ -27.257612
+ No gate disgusted at most eight governments . 
+ -34.53558
+
+No doctor will bring fewer than ten dishes . 
+ -38.748196
+ No doctor will bring at most ten dishes . 
+ -41.89725
+
+No actress did run around more than two schools . 
+ -36.76986
+ No actress did run around at least two schools . 
+ -37.16615
+
+No person observed more than seven girls . 
+ -25.374737
+ No person observed at least seven girls . 
+ -28.59348
+
+No waiter will take more than four eyes . 
+ -29.193
+ No waiter will take at least four eyes . 
+ -28.04359
+
+No plate upset fewer than nine guys . 
+ -27.715685
+ No plate upset at most nine guys . 
+ -35.462627
+
+No teenager saw fewer than six paintings . 
+ -26.299847
+ No teenager saw at most six paintings . 
+ -34.17282
+
+No cashier was walking through fewer than ten banks . 
+ -44.552803
+ No cashier was walking through at most ten banks . 
+ -47.39122
+
+No movie did describe more than two actors . 
+ -28.386366
+ No movie did describe at least two actors . 
+ -27.667612
+
+No couch had disturbed fewer than ten people . 
+ -30.133846
+ No couch had disturbed at most ten people . 
+ -38.599625
+
+No child had argued about fewer than five patients . 
+ -43.225273
+ No child had argued about at most five patients . 
+ -43.845116
+
+No senator did lift more than three gates . 
+ -32.3743
+ No senator did lift at least three gates . 
+ -33.85208
+
+No rabbit has aggravated more than ten museums . 
+ -40.53399
+ No rabbit has aggravated at least ten museums . 
+ -40.456066
+
+No lady forgets fewer than nine books . 
+ -21.4909
+ No lady forgets at most nine books . 
+ -31.983698
+
+No person has boasted about more than five guys . 
+ -42.895344
+ No person has boasted about at least five guys . 
+ -40.58934
+
+No teacher would kiss more than two ladies . 
+ -35.879677
+ No teacher would kiss at least two ladies . 
+ -34.189728
+
+No girl is examining more than three plays . 
+ -33.532784
+ No girl is examining at least three plays . 
+ -27.703917
+
+No woman is watching more than five cashiers . 
+ -41.229862
+ No woman is watching at least five cashiers . 
+ -41.665466
+
+No person was listening to fewer than seven doctors . 
+ -41.43576
+ No person was listening to at most seven doctors . 
+ -38.64247
+
+No scarf aggravated more than six women . 
+ -24.214878
+ No scarf aggravated at least six women . 
+ -25.407713
+
+No painting has looked like fewer than four dogs . 
+ -47.42192
+ No painting has looked like at most four dogs . 
+ -44.87757
+
+No movie talked about fewer than six malls . 
+ -48.266823
+ No movie talked about at most six malls . 
+ -46.858803
+
+No play praised fewer than eight patients . 
+ -24.702436
+ No play praised at most eight patients . 
+ -30.750109
+
+No teenager could tour more than seven public parks . 
+ -43.15525
+ No teenager could tour at least seven public parks . 
+ -41.360706
+
+No girl praised more than five doctors . 
+ -25.43106
+ No girl praised at least five doctors . 
+ -26.367306
+
+No girl fixes more than seven vases . 
+ -31.005062
+ No girl fixes at least seven vases . 
+ -32.087997
+
+No actress is hiring fewer than six dancers . 
+ -36.612103
+ No actress is hiring at most six dancers . 
+ -42.454384
+
+No woman saw fewer than three horses . 
+ -22.172876
+ No woman saw at most three horses . 
+ -30.126238
+
+No woman respected more than four art galleries . 
+ -31.41013
+ No woman respected at least four art galleries . 
+ -33.945065
+
+No dancer bought more than six hamsters . 
+ -29.581593
+ No dancer bought at least six hamsters . 
+ -31.246082
+
+No customer has worn more than eight shoes . 
+ -35.459007
+ No customer has worn at least eight shoes . 
+ -39.87668
+
+No lady had descended more than two slopes . 
+ -30.491554
+ No lady had descended at least two slopes . 
+ -32.880726
+
+No guest was escaping from more than ten high schools . 
+ -40.482983
+ No guest was escaping from at least ten high schools . 
+ -38.46921
+
+No dancer has ran around more than three public parks . 
+ -47.7678
+ No dancer has ran around at least three public parks . 
+ -44.198025
+
+No child has exited fewer than three cafes . 
+ -42.83864
+ No child has exited at most three cafes . 
+ -41.16781
+
+No girl goes to fewer than nine rivers . 
+ -38.394073
+ No girl goes to at most nine rivers . 
+ -42.97445
+
+No child had left more than seven waitresses . 
+ -40.67439
+ No child had left at least seven waitresses . 
+ -41.0969
+
+No child visited more than four pedestrians . 
+ -28.733673
+ No child visited at least four pedestrians . 
+ -29.186516
+
+No actress likes fewer than ten vases . 
+ -29.543125
+ No actress likes at most ten vases . 
+ -37.07747
+
+No teenager criticizes more than three actresses . 
+ -29.563583
+ No teenager criticizes at least three actresses . 
+ -30.305664
+
+No actor is concealing more than nine teenagers . 
+ -39.551258
+ No actor is concealing at least nine teenagers . 
+ -41.153282
+
+No waitress complains about fewer than two ladies . 
+ -42.43038
+ No waitress complains about at most two ladies . 
+ -39.139843
+
+No actress was attacking more than eight adults . 
+ -36.07999
+ No actress was attacking at least eight adults . 
+ -36.88613
+
+No dancer observed fewer than seven adults . 
+ -26.043146
+ No dancer observed at most seven adults . 
+ -33.387207
+
+No hat has worried fewer than five students . 
+ -33.348816
+ No hat has worried at most five students . 
+ -37.734646
+
+No actress had brought fewer than six boxes . 
+ -37.979015
+ No actress had brought at most six boxes . 
+ -41.567146
+
+No guest is lifting fewer than ten gloves . 
+ -44.560535
+ No guest is lifting at most ten gloves . 
+ -45.045624
+
+No school did annoy fewer than nine customers . 
+ -42.19851
+ No school did annoy at most nine customers . 
+ -45.94501
+
+No adult observes more than two men . 
+ -19.759335
+ No adult observes at least two men . 
+ -20.649675
+
+No person concealed fewer than six windows . 
+ -24.671654
+ No person concealed at most six windows . 
+ -32.759785
+
+No waitress might fire more than six students . 
+ -30.638758
+ No waitress might fire at least six students . 
+ -27.987095
+
+No guy is climbing up more than five mountains . 
+ -39.614437
+ No guy is climbing up at least five mountains . 
+ -40.687702
+
+No woman could explore more than nine mountains . 
+ -36.41072
+ No woman could explore at least nine mountains . 
+ -36.06271
+
+No driver has dropped by more than three museums . 
+ -32.11349
+ No driver has dropped by at least three museums . 
+ -32.084644
+
+No cafe does bother more than three girls . 
+ -33.474876
+ No cafe does bother at least three girls . 
+ -34.46201
+
+No bank might argue about fewer than seven essays . 
+ -48.87262
+ No bank might argue about at most seven essays . 
+ -49.942276
+
+No guest should ascend more than four hills . 
+ -35.880684
+ No guest should ascend at least four hills . 
+ -35.58959
+
+No boy climbed down more than seven mountains . 
+ -34.554996
+ No boy climbed down at least seven mountains . 
+ -36.1608
+
+No teacher approached fewer than nine people . 
+ -19.78782
+ No teacher approached at most nine people . 
+ -31.646013
+
+No actor helps fewer than two waiters . 
+ -28.109026
+ No actor helps at most two waiters . 
+ -32.86113
+
+No child had known fewer than two drivers . 
+ -39.29335
+ No child had known at most two drivers . 
+ -37.8208
+
+No lady can hide fewer than nine shoes . 
+ -42.186813
+ No lady can hide at most nine shoes . 
+ -43.936913
+
+No essay does insult fewer than seven lakes . 
+ -41.22394
+ No essay does insult at most seven lakes . 
+ -42.442425
+
+No student might exit fewer than three glaciers . 
+ -42.6155
+ No student might exit at most three glaciers . 
+ -41.35308
+
+No movie can disgust fewer than eight drivers . 
+ -42.036377
+ No movie can disgust at most eight drivers . 
+ -40.191772
+
+No cashier might mess up more than two libraries . 
+ -35.782795
+ No cashier might mess up at least two libraries . 
+ -35.271435
+
+No driver arrives at more than four hills . 
+ -34.68113
+ No driver arrives at at least four hills . 
+ -36.81761
+
+No waitress bought fewer than nine pants . 
+ -31.05701
+ No waitress bought at most nine pants . 
+ -37.247574
+
+No child had disturbed fewer than seven universities . 
+ -40.372627
+ No child had disturbed at most seven universities . 
+ -41.858734
+
+No woman should visit fewer than two schools . 
+ -36.215923
+ No woman should visit at most two schools . 
+ -35.502033
+
+No teacher might hide more than eight people . 
+ -29.077776
+ No teacher might hide at least eight people . 
+ -29.795261
+
+No woman did leave fewer than ten hospitals . 
+ -38.15651
+ No woman did leave at most ten hospitals . 
+ -40.30186
+
+No teacher drove to more than four mountains . 
+ -35.71116
+ No teacher drove to at least four mountains . 
+ -35.921974
+
+No report will conceal more than ten guests . 
+ -31.574533
+ No report will conceal at least ten guests . 
+ -31.612291
+
+No patient walks through more than four movie theaters . 
+ -39.025753
+ No patient walks through at least four movie theaters . 
+ -38.067158
+
+No person could boycott more than three glaciers . 
+ -38.820587
+ No person could boycott at least three glaciers . 
+ -38.97355
+
+No committee does respect more than six art galleries . 
+ -47.563316
+ No committee does respect at least six art galleries . 
+ -45.539833
+
+No customer did break fewer than nine dishes . 
+ -42.351933
+ No customer did break at most nine dishes . 
+ -43.611435
+
+No actress was scanning fewer than five essays . 
+ -41.03358
+ No actress was scanning at most five essays . 
+ -41.350163
+
+No boy will see fewer than four teachers . 
+ -30.561287
+ No boy will see at most four teachers . 
+ -35.669598
+
+No company will argue about more than three customers . 
+ -40.800632
+ No company will argue about at least three customers . 
+ -39.86004
+
+No library talks to fewer than three doctors . 
+ -37.340744
+ No library talks to at most three doctors . 
+ -36.27645
+
+No documentary conceals more than three teenagers . 
+ -25.085514
+ No documentary conceals at least three teenagers . 
+ -25.515293
+
+No cashier buys fewer than five windows . 
+ -25.440987
+ No cashier buys at most five windows . 
+ -29.757614
+
+No door had scared more than ten hospitals . 
+ -36.129177
+ No door had scared at least ten hospitals . 
+ -37.791534
+
+No student did drive to fewer than three college campuses . 
+ -49.106506
+ No student did drive to at most three college campuses . 
+ -50.24308
+
+No boy was running around fewer than five restaurants . 
+ -45.4167
+ No boy was running around at most five restaurants . 
+ -44.653885
+
+No print has upset more than seven organizations . 
+ -34.674297
+ No print has upset at least seven organizations . 
+ -35.63513
+
+No actress will bike to more than three movie theaters . 
+ -44.736588
+ No actress will bike to at least three movie theaters . 
+ -44.68174
+
+No dancer had taken fewer than five glasses . 
+ -34.71381
+ No dancer had taken at most five glasses . 
+ -41.410686
+
+No guest was insulting more than three dancers . 
+ -40.908142
+ No guest was insulting at least three dancers . 
+ -38.723484
+
+No guy does hate fewer than two stories . 
+ -35.815544
+ No guy does hate at most two stories . 
+ -34.870235
+
+No actor might observe more than five waitresses . 
+ -38.359753
+ No actor might observe at least five waitresses . 
+ -37.000843
+
+No actor could run around fewer than two libraries . 
+ -48.796356
+ No actor could run around at most two libraries . 
+ -46.383957
+
+No pedestrian is watching more than nine doctors . 
+ -38.45867
+ No pedestrian is watching at least nine doctors . 
+ -38.864216
+
+No hamster did hurt more than seven museums . 
+ -37.53225
+ No hamster did hurt at least seven museums . 
+ -41.125145
+
+No pedestrian could admire more than five actors . 
+ -30.13785
+ No pedestrian could admire at least five actors . 
+ -34.023487
+
+No rabbit ascends fewer than seven stairs . 
+ -27.350437
+ No rabbit ascends at most seven stairs . 
+ -34.785797
+
+No mouth has confused more than six guests . 
+ -28.955832
+ No mouth has confused at least six guests . 
+ -37.843124
+
+No adult was breaking more than four glasses . 
+ -33.239746
+ No adult was breaking at least four glasses . 
+ -31.68459
+
+No book has scared fewer than two ladies . 
+ -41.2937
+ No book has scared at most two ladies . 
+ -35.641197
+
+No lady does upset more than two banks . 
+ -33.318584
+ No lady does upset at least two banks . 
+ -33.65117
+
+No person cleaned more than seven pants . 
+ -31.968796
+ No person cleaned at least seven pants . 
+ -31.59441
+
+No bank sold fewer than five shoes . 
+ -25.19661
+ No bank sold at most five shoes . 
+ -34.595726
+
+No school would irritate more than three universities . 
+ -31.869986
+ No school would irritate at least three universities . 
+ -35.92935
+
+No child has examined fewer than three plays . 
+ -36.38958
+ No child has examined at most three plays . 
+ -38.18534
+
+No guy had taken more than five screens . 
+ -32.160435
+ No guy had taken at least five screens . 
+ -33.470043
+
+No guy ascended fewer than eight hills . 
+ -27.241613
+ No guy ascended at most eight hills . 
+ -34.51958
+
+No teacher should walk through more than nine glaciers . 
+ -45.585842
+ No teacher should walk through at least nine glaciers . 
+ -43.36217
+
+No car bothered more than ten cashiers . 
+ -34.2874
+ No car bothered at least ten cashiers . 
+ -37.15561
+
+No waitress is worrying fewer than seven doctors . 
+ -41.386734
+ No waitress is worrying at most seven doctors . 
+ -41.85637
+
+No child had broken more than two cups . 
+ -29.85705
+ No child had broken at least two cups . 
+ -29.785954
+
+No mirror would upset fewer than five drivers . 
+ -41.71205
+ No mirror would upset at most five drivers . 
+ -43.321632
+
+No cashier examined fewer than six documentaries . 
+ -30.255217
+ No cashier examined at most six documentaries . 
+ -37.578102
+
+No guy has visited fewer than six hospitals . 
+ -40.15505
+ No guy has visited at most six hospitals . 
+ -38.886597
+
+No organization is firing fewer than five customers . 
+ -39.373783
+ No organization is firing at most five customers . 
+ -37.20633
+
+No legislature does alarm fewer than nine drivers . 
+ -42.79101
+ No legislature does alarm at most nine drivers . 
+ -42.29392
+
+No library was boring fewer than two museums . 
+ -41.908607
+ No library was boring at most two museums . 
+ -38.90672
+
+No waitress revealed fewer than eight photographs . 
+ -25.966305
+ No waitress revealed at most eight photographs . 
+ -33.879456
+
+No actor had irritated fewer than five people . 
+ -30.71239
+ No actor had irritated at most five people . 
+ -35.19698
+
+No adult could talk to fewer than nine actresses . 
+ -46.478565
+ No adult could talk to at most nine actresses . 
+ -46.423492
+
+No man walks through fewer than two art galleries . 
+ -45.42831
+ No man walks through at most two art galleries . 
+ -42.008152
+
+No face had resembled fewer than seven sketches . 
+ -43.30271
+ No face had resembled at most seven sketches . 
+ -46.084053
+
+No mountain stunned more than four doctors . 
+ -25.334736
+ No mountain stunned at least four doctors . 
+ -29.429914
+
+No cashier was worrying more than six students . 
+ -27.9714
+ No cashier was worrying at least six students . 
+ -28.865292
+
+No pedestrian had walked through fewer than six hills . 
+ -47.62133
+ No pedestrian had walked through at most six hills . 
+ -48.88072
+
+No teacher forgets more than three reports . 
+ -25.160542
+ No teacher forgets at least three reports . 
+ -24.727942
+
+No senator was skated around fewer than five cafes . 
+ -51.191544
+ No senator was skated around at most five cafes . 
+ -52.467678
+
+No lady helped fewer than seven senators . 
+ -26.616833
+ No lady helped at most seven senators . 
+ -34.052197
+
+No documentary concealed fewer than two waiters . 
+ -28.109026
+ No documentary concealed at most two waiters . 
+ -32.86113
+
+No guy saw fewer than nine gates . 
+ -25.208544
+ No guy saw at most nine gates . 
+ -33.75857
+
+No customer was helping fewer than two ladies . 
+ -41.2937
+ No customer was helping at most two ladies . 
+ -36.884586
+
+No school fires more than three dancers . 
+ -27.264833
+ No school fires at least three dancers . 
+ -30.345129
+
+No adult has cured more than ten children . 
+ -25.38252
+ No adult has cured at least ten children . 
+ -30.126827
+
+No painting alarmed more than two people . 
+ -17.349173
+ No painting alarmed at least two people . 
+ -23.477146
+
+No waiter arrives at more than three rivers . 
+ -33.660194
+ No waiter arrives at at least three rivers . 
+ -34.26563
+
+No child had biked to fewer than two mountains . 
+ -40.82221
+ No child had biked to at most two mountains . 
+ -40.71655
+
+No actress has complained about fewer than eight students . 
+ -41.967686
+ No actress has complained about at most eight students . 
+ -44.98963
+
+No actress was walking through fewer than ten rivers . 
+ -45.132973
+ No actress was walking through at most ten rivers . 
+ -48.170403
+
+No company is scaring fewer than four actors . 
+ -39.67491
+ No company is scaring at most four actors . 
+ -41.931114
+
+No teacher describes fewer than six girls . 
+ -24.701097
+ No teacher describes at most six girls . 
+ -31.24495
+
+No boy can leave fewer than five senators . 
+ -37.964745
+ No boy can leave at most five senators . 
+ -39.24449
+
+No actor has cured fewer than three hamsters . 
+ -44.640553
+ No actor has cured at most three hamsters . 
+ -43.9464
+
+No door was astounding fewer than nine banks . 
+ -41.32304
+ No door was astounding at most nine banks . 
+ -42.73379
+
+No person had sold more than nine stairs . 
+ -33.2067
+ No person had sold at least nine stairs . 
+ -37.369358
+
+No woman will descend fewer than four hills . 
+ -41.009346
+ No woman will descend at most four hills . 
+ -39.437813
+
+No man was approaching more than six customers . 
+ -37.562305
+ No man was approaching at least six customers . 
+ -36.883354
+
+No pedestrian has fled from more than nine guys . 
+ -42.277237
+ No pedestrian has fled from at least nine guys . 
+ -39.346313
+
+No boy will observe fewer than four women . 
+ -35.373474
+ No boy will observe at most four women . 
+ -36.096455
+
+No actress insults fewer than nine art galleries . 
+ -37.61012
+ No actress insults at most nine art galleries . 
+ -45.35706
+
+No customer observes fewer than eight guys . 
+ -26.841454
+ No customer observes at most eight guys . 
+ -34.11942
+
+No actor fired fewer than two guys . 
+ -24.909826
+ No actor fired at most two guys . 
+ -31.869217
+
+No doctor impressed more than nine students . 
+ -24.46013
+ No doctor impressed at least nine students . 
+ -27.999144
+
+No waiter could describe fewer than nine reports . 
+ -42.00663
+ No waiter could describe at most nine reports . 
+ -43.254257
+
+No driver ascended more than three ladders . 
+ -27.380693
+ No driver ascended at least three ladders . 
+ -29.949087
+
+No waitress would hug fewer than three students . 
+ -34.292404
+ No waitress would hug at most three students . 
+ -36.3188
+
+No lady would sell fewer than three cars . 
+ -31.659586
+ No lady would sell at most three cars . 
+ -35.488308
+
+No book has described fewer than five college campuses . 
+ -46.307995
+ No book has described at most five college campuses . 
+ -46.66453
+
+No woman was driving to fewer than nine public parks . 
+ -53.112114
+ No woman was driving to at most nine public parks . 
+ -57.031002
+
+No person investigated more than six students . 
+ -22.285944
+ No person investigated at least six students . 
+ -22.472687
+
+No adult ascends fewer than nine steps . 
+ -24.521486
+ No adult ascends at most nine steps . 
+ -32.345783
+
+No woman talked about more than seven banks . 
+ -34.704185
+ No woman talked about at least seven banks . 
+ -36.759106
+
+No organization does take fewer than six computers . 
+ -40.17108
+ No organization does take at most six computers . 
+ -41.246002
+
+No driver has cared for fewer than five boys . 
+ -36.829865
+ No driver has cared for at most five boys . 
+ -34.79615
+
+No student was driving to more than five schools . 
+ -37.344193
+ No student was driving to at least five schools . 
+ -37.925426
+
+No pedestrian climbed down more than four slopes . 
+ -36.614502
+ No pedestrian climbed down at least four slopes . 
+ -37.58689
+
+No guest revealed more than two prints . 
+ -24.858534
+ No guest revealed at least two prints . 
+ -23.34106
+
+No patient was insulting fewer than ten art galleries . 
+ -51.304974
+ No patient was insulting at most ten art galleries . 
+ -53.97427
+
+No guest had more than two pants . 
+ -28.271837
+ No guest had at least two pants . 
+ -27.635311
+
+No hospital has argued about more than six students . 
+ -39.729103
+ No hospital has argued about at least six students . 
+ -36.898342
+
+No teenager might drop by more than three schools . 
+ -32.094124
+ No teenager might drop by at least three schools . 
+ -26.896189
+
+No guest cures fewer than nine students . 
+ -24.602556
+ No guest cures at most nine students . 
+ -32.537453
+
+No boy will boycott fewer than six art galleries . 
+ -51.35212
+ No boy will boycott at most six art galleries . 
+ -52.823082
+
+No bank will talk to more than three actors . 
+ -31.807713
+ No bank will talk to at least three actors . 
+ -31.135225
+
+No window was looking like more than nine prints . 
+ -48.172913
+ No window was looking like at least nine prints . 
+ -49.92497
+
+No adult was exploring more than two restaurants . 
+ -35.528046
+ No adult was exploring at least two restaurants . 
+ -32.527966
+
+No woman insults more than seven essays . 
+ -28.404743
+ No woman insults at least seven essays . 
+ -32.23501
+
+No fish embarrassed fewer than nine universities . 
+ -25.055683
+ No fish embarrassed at most nine universities . 
+ -34.161076
+
+No company liked fewer than four dishes . 
+ -25.23874
+ No company liked at most four dishes . 
+ -33.15492
+
+No fish has hidden more than six sketches . 
+ -39.672707
+ No fish has hidden at least six sketches . 
+ -40.06412
+
+No boy was arguing about more than four children . 
+ -34.350822
+ No boy was arguing about at least four children . 
+ -32.82682
+
+No lady had messed up fewer than ten banks . 
+ -40.608612
+ No lady had messed up at most ten banks . 
+ -44.15673
+
+No child was lifting more than six cars . 
+ -31.682932
+ No child was lifting at least six cars . 
+ -33.31727
+
+No man exits more than ten restaurants . 
+ -29.374432
+ No man exits at least ten restaurants . 
+ -32.295265
+
+No person reveals more than seven boys . 
+ -26.275002
+ No person reveals at least seven boys . 
+ -22.75621
+
+No waiter disagrees with more than three ladies . 
+ -32.64817
+ No waiter disagrees with at least three ladies . 
+ -31.393814
+
+No driver is observing fewer than six students . 
+ -33.190014
+ No driver is observing at most six students . 
+ -38.0978
+
+No dancer has walked through more than two cafes . 
+ -39.91265
+ No dancer has walked through at least two cafes . 
+ -39.63937
+
+No government criticizes fewer than three teenagers . 
+ -26.393394
+ No government criticizes at most three teenagers . 
+ -32.35314
+
+No adult loved fewer than six pedestrians . 
+ -30.975006
+ No adult loved at most six pedestrians . 
+ -38.0449
+
+No guy had walked through more than seven high schools . 
+ -40.616993
+ No guy had walked through at least seven high schools . 
+ -39.743275
+
+No student cared for more than four children . 
+ -22.722246
+ No student cared for at least four children . 
+ -24.743187
+
+No waiter has discussed more than four lakes . 
+ -37.90181
+ No waiter has discussed at least four lakes . 
+ -36.7802
+
+No chair is boring fewer than nine ladies . 
+ -42.1303
+ No chair is boring at most nine ladies . 
+ -42.932987
+
+No senator loved fewer than three women . 
+ -20.103943
+ No senator loved at most three women . 
+ -28.9844
+
+No company was talking to more than six people . 
+ -29.448734
+ No company was talking to at least six people . 
+ -28.516182
+
+No customer was curing fewer than seven cats . 
+ -40.573967
+ No customer was curing at most seven cats . 
+ -41.314705
+
+No hospital has irritated more than five schools . 
+ -33.090137
+ No hospital has irritated at least five schools . 
+ -34.358875
+
+No hospital had admired fewer than six gloves . 
+ -45.084194
+ No hospital had admired at most six gloves . 
+ -43.630733
+
+No high school had worried fewer than four children . 
+ -44.72636
+ No high school had worried at most four children . 
+ -45.792988
+
+No dancer appreciated more than five senators . 
+ -24.807508
+ No dancer appreciated at least five senators . 
+ -27.119991
+
+No patient ascends fewer than three hills . 
+ -25.426468
+ No patient ascends at most three hills . 
+ -31.386211
+
+No actor saw fewer than eight bananas . 
+ -27.785011
+ No actor saw at most eight bananas . 
+ -35.866062
+
+No association had admired fewer than six dogs . 
+ -39.069225
+ No association had admired at most six dogs . 
+ -37.934483
+
+No teacher might leave fewer than three hospitals . 
+ -38.337395
+ No teacher might leave at most three hospitals . 
+ -37.780025
+
+No girl has passed fewer than nine movie theaters . 
+ -45.150677
+ No girl has passed at most nine movie theaters . 
+ -48.362663
+
+No pedestrian can exit more than seven hills . 
+ -35.760147
+ No pedestrian can exit at least seven hills . 
+ -34.28016
+
+No pedestrian fled from fewer than two closets . 
+ -38.93735
+ No pedestrian fled from at most two closets . 
+ -37.962276
+
+No student was exiting more than six lakes . 
+ -37.63117
+ No student was exiting at least six lakes . 
+ -36.57379
+
+No customer visits fewer than nine actors . 
+ -27.70326
+ No customer visits at most nine actors . 
+ -33.944065
+
+No documentary references fewer than seven boys . 
+ -25.253775
+ No documentary references at most seven boys . 
+ -32.22297
+
+No guest should like more than five couches . 
+ -38.300316
+ No guest should like at least five couches . 
+ -36.414124
+
+No library had discussed more than seven boys . 
+ -33.112446
+ No library had discussed at least seven boys . 
+ -36.371807
+
+No person kisses more than ten teenagers . 
+ -28.841293
+ No person kisses at least ten teenagers . 
+ -31.949226
+
+No woman was climbing down fewer than two hills . 
+ -46.325527
+ No woman was climbing down at most two hills . 
+ -45.080975
+
+No patient should sell fewer than three gloves . 
+ -37.54007
+ No patient should sell at most three gloves . 
+ -40.420223
+
+No customer does flee from fewer than eight teachers . 
+ -36.934525
+ No customer does flee from at most eight teachers . 
+ -44.987415
+
+No boy wears more than eight shoes . 
+ -28.436232
+ No boy wears at least eight shoes . 
+ -29.406818
+
+No student brought more than four photographs . 
+ -25.92149
+ No student brought at least four photographs . 
+ -24.133915
+
+No adult has looked like fewer than seven photographs . 
+ -49.61773
+ No adult has looked like at most seven photographs . 
+ -48.24595
+
+No person examines more than nine movies . 
+ -30.09372
+ No person examines at least nine movies . 
+ -30.93256
+
+No teacher was bringing fewer than nine cars . 
+ -40.29069
+ No teacher was bringing at most nine cars . 
+ -43.822926
+
+No teacher climbed up fewer than eight ladders . 
+ -42.99812
+ No teacher climbed up at most eight ladders . 
+ -46.05904
+
+No child did talk to fewer than ten boys . 
+ -39.25627
+ No child did talk to at most ten boys . 
+ -39.81705
+
+No guest will bother more than nine patients . 
+ -36.529457
+ No guest will bother at least nine patients . 
+ -36.39208
+
+No person did approach fewer than six adults . 
+ -39.74315
+ No person did approach at most six adults . 
+ -41.547714
+
+No man cleans more than nine mirrors . 
+ -32.18547
+ No man cleans at least nine mirrors . 
+ -33.273464
+
+No guest was firing more than three waiters . 
+ -36.35197
+ No guest was firing at least three waiters . 
+ -35.84738
+
+No man had listened to fewer than eight drivers . 
+ -42.015854
+ No man had listened to at most eight drivers . 
+ -38.03066
+
+No dancer did break more than two computers . 
+ -33.244637
+ No dancer did break at least two computers . 
+ -32.031273
+
+No rug is boring more than six drivers . 
+ -39.450462
+ No rug is boring at least six drivers . 
+ -39.158997
+
+No actress cleaned fewer than eight cups . 
+ -25.288755
+ No actress cleaned at most eight cups . 
+ -34.243874
+
+No library was insulting fewer than two waiters . 
+ -42.652473
+ No library was insulting at most two waiters . 
+ -42.539528
+
+No hospital argued about fewer than six essays . 
+ -42.279697
+ No hospital argued about at most six essays . 
+ -41.173016
+
+No shirt has irritated fewer than eight children . 
+ -33.61617
+ No shirt has irritated at most eight children . 
+ -34.5115
+
+No cashier will fire fewer than two cashiers . 
+ -45.563065
+ No cashier will fire at most two cashiers . 
+ -40.00254
+
+No lady is ascending more than five hills . 
+ -36.984917
+ No lady is ascending at least five hills . 
+ -35.27488
+
+No senator had dropped by fewer than eight hills . 
+ -44.89783
+ No senator had dropped by at most eight hills . 
+ -42.17719
+
+No actor has arrived at fewer than four libraries . 
+ -43.396225
+ No actor has arrived at at most four libraries . 
+ -44.70047
+
+No woman had kissed more than seven dancers . 
+ -37.812813
+ No woman had kissed at least seven dancers . 
+ -38.656322
+
+No senator went to fewer than ten malls . 
+ -43.530235
+ No senator went to at most ten malls . 
+ -46.311974
+
+No customer should attack more than ten teenagers . 
+ -39.37779
+ No customer should attack at least ten teenagers . 
+ -39.153503
+
+No actor fixed more than seven forks . 
+ -31.686167
+ No actor fixed at least seven forks . 
+ -35.561356
+
+No girl is kissing more than nine people . 
+ -31.998098
+ No girl is kissing at least nine people . 
+ -32.505795
+
+No woman helps fewer than seven senators . 
+ -26.616833
+ No woman helps at most seven senators . 
+ -34.052197
+
+No government had remembered fewer than nine movie theaters . 
+ -45.114964
+ No government had remembered at most nine movie theaters . 
+ -47.097343
+
+No actress could examine fewer than nine documentaries . 
+ -44.916306
+ No actress could examine at most nine documentaries . 
+ -44.176125
+
+No boy has passed more than four mountains . 
+ -32.957443
+ No boy has passed at least four mountains . 
+ -32.392754
+
+No girl will mess up more than eight malls . 
+ -44.09671
+ No girl will mess up at least eight malls . 
+ -45.551598
+
+No patient boasted about more than five children . 
+ -29.266521
+ No patient boasted about at least five children . 
+ -28.458906
+
+No rabbit hides fewer than seven sketches . 
+ -28.759262
+ No rabbit hides at most seven sketches . 
+ -36.194622
+
+No person complains about more than nine movies . 
+ -39.51991
+ No person complains about at least nine movies . 
+ -40.797394
+
+No company had taken more than nine forks . 
+ -37.171017
+ No company had taken at least nine forks . 
+ -38.354225
+
+No guy could know more than four children . 
+ -25.423853
+ No guy could know at least four children . 
+ -25.49318
+
+No painting can resemble fewer than ten photographs . 
+ -40.877613
+ No painting can resemble at most ten photographs . 
+ -43.708237
+
+No man concealed fewer than six vases . 
+ -28.31722
+ No man concealed at most six vases . 
+ -35.38711
+
+No child might care for fewer than three actresses . 
+ -40.41488
+ No child might care for at most three actresses . 
+ -43.050964
+
+No doctor has seen more than three customers . 
+ -28.269901
+ No doctor has seen at least three customers . 
+ -28.304977
+
+No boy might alarm fewer than two students . 
+ -37.84758
+ No boy might alarm at most two students . 
+ -33.355927
+
+No person was biking to fewer than eight movie theaters . 
+ -48.925358
+ No person was biking to at most eight movie theaters . 
+ -49.083584
+
+No cashier praised fewer than seven pedestrians . 
+ -30.986443
+ No cashier praised at most seven pedestrians . 
+ -38.421806
+
+No snake hid fewer than four doors . 
+ -25.195621
+ No snake hid at most four doors . 
+ -31.34839
+
+No photograph will annoy more than eight patients . 
+ -33.811646
+ No photograph will annoy at least eight patients . 
+ -36.66369
+
+No college campus had embarrassed more than three guests . 
+ -46.974403
+ No college campus had embarrassed at least three guests . 
+ -50.74606
+
+No teenager respects fewer than ten hospitals . 
+ -25.792568
+ No teenager respects at most ten hospitals . 
+ -33.32691
+
+No university forgot more than seven boys . 
+ -25.670067
+ No university forgot at least seven boys . 
+ -28.081015
+
+No rabbit climbed down fewer than ten slopes . 
+ -44.488773
+ No rabbit climbed down at most ten slopes . 
+ -47.527874
+
+No woman brought more than seven glasses . 
+ -26.726664
+ No woman brought at least seven glasses . 
+ -28.599821
+
+No teenager is hiding more than four patients . 
+ -33.42294
+ No teenager is hiding at least four patients . 
+ -32.706093
+
+No man had cleaned fewer than nine birds . 
+ -41.21621
+ No man had cleaned at most nine birds . 
+ -42.071274
+
+No woman did walk through fewer than four public parks . 
+ -51.47295
+ No woman did walk through at most four public parks . 
+ -51.344078
+
+No senator had returned to fewer than nine hospitals . 
+ -42.47767
+ No senator had returned to at most nine hospitals . 
+ -44.893845
+
+No actress had worn more than eight shoes . 
+ -35.80002
+ No actress had worn at least eight shoes . 
+ -37.25688
+
+No guest had helped fewer than eight guys . 
+ -42.267403
+ No guest had helped at most eight guys . 
+ -42.53626
+
+No play could sound like more than two cafes . 
+ -38.74072
+ No play could sound like at least two cafes . 
+ -40.913574
+
+No cashier has fired more than two waiters . 
+ -30.679167
+ No cashier has fired at least two waiters . 
+ -34.142754
+
+No adult was upsetting more than six patients . 
+ -34.451385
+ No adult was upsetting at least six patients . 
+ -32.927746
+
+No cashier skates around fewer than three malls . 
+ -45.440422
+ No cashier skates around at most three malls . 
+ -45.452812
+
+No university was bothering fewer than eight patients . 
+ -39.245888
+ No university was bothering at most eight patients . 
+ -40.109505
+
+No girl has concealed fewer than nine pedestrians . 
+ -47.366863
+ No girl has concealed at most nine pedestrians . 
+ -48.780273
+
+No cashier had skated around fewer than five rivers . 
+ -46.323456
+ No cashier had skated around at most five rivers . 
+ -46.7501
+
+No lady brought fewer than six reports . 
+ -25.556671
+ No lady brought at most six reports . 
+ -32.812706
+
+No teenager exited more than two glaciers . 
+ -28.166641
+ No teenager exited at least two glaciers . 
+ -28.930912
+
+No movie theater was disgusting more than seven cashiers . 
+ -60.873497
+ No movie theater was disgusting at least seven cashiers . 
+ -61.266273
+
+No cat is finding fewer than nine dancers . 
+ -37.43418
+ No cat is finding at most nine dancers . 
+ -43.741497
+
+No mountain is distracting fewer than six cashiers . 
+ -46.034943
+ No mountain is distracting at most six cashiers . 
+ -45.34913
+
+No guy might describe more than seven commentaries . 
+ -39.051308
+ No guy might describe at least seven commentaries . 
+ -39.51677
+
+No child biked to more than two libraries . 
+ -34.851856
+ No child biked to at least two libraries . 
+ -32.82377
+
+No adult insults fewer than nine adults . 
+ -27.114105
+ No adult insults at most nine adults . 
+ -34.861046
+
+No patient watched more than ten cashiers . 
+ -34.768394
+ No patient watched at least ten cashiers . 
+ -36.05303
+
+No rug resembles more than two sketches . 
+ -27.633915
+ No rug resembles at least two sketches . 
+ -25.610626
+
+No cashier had concealed fewer than five rabbits . 
+ -40.655663
+ No cashier had concealed at most five rabbits . 
+ -41.297028
+
+No boy insults more than four books . 
+ -23.362587
+ No boy insults at least four books . 
+ -24.646416
+
+No man was investigating fewer than eight ladies . 
+ -41.45656
+ No man was investigating at most eight ladies . 
+ -41.75615
+
+No pedestrian has worn more than seven glasses . 
+ -34.859993
+ No pedestrian has worn at least seven glasses . 
+ -39.296032
+
+No legislature would hate more than three waitresses . 
+ -34.59984
+ No legislature would hate at least three waitresses . 
+ -40.38549
+
+No student should sell more than two rabbits . 
+ -30.97063
+ No student should sell at least two rabbits . 
+ -29.146132
+
+No lady could hug fewer than five teenagers . 
+ -42.039265
+ No lady could hug at most five teenagers . 
+ -43.472084
+
+No adult remembers fewer than ten drivers . 
+ -27.668274
+ No adult remembers at most ten drivers . 
+ -35.202614
+
+No couch was looking like fewer than nine drawings . 
+ -51.34618
+ No couch was looking like at most nine drawings . 
+ -52.73512
+
+No woman had messed up more than three cafes . 
+ -36.552498
+ No woman had messed up at least three cafes . 
+ -39.429863
+
+No teacher boycotts fewer than two schools . 
+ -23.007235
+ No teacher boycotts at most two schools . 
+ -28.829361
+
+No driver was ascending fewer than seven ladders . 
+ -44.604664
+ No driver was ascending at most seven ladders . 
+ -44.582554
+
+No pedestrian healed more than three waiters . 
+ -28.743603
+ No pedestrian healed at least three waiters . 
+ -30.352684
+
+No dancer climbed up more than five stairs . 
+ -37.225094
+ No dancer climbed up at least five stairs . 
+ -37.992977
+
+No boy was hugging fewer than six dancers . 
+ -41.454174
+ No boy was hugging at most six dancers . 
+ -43.48125
+
+No lady would complain about fewer than ten pedestrians . 
+ -49.98235
+ No lady would complain about at most ten pedestrians . 
+ -50.95222
+
+No actress passed more than three hills . 
+ -23.343185
+ No actress passed at least three hills . 
+ -26.004025
+
+No guest hated fewer than five movies . 
+ -26.76056
+ No guest hated at most five movies . 
+ -33.984043
+
+No bank might take more than nine dishes . 
+ -33.716385
+ No bank might take at least nine dishes . 
+ -34.032387
+
+No hospital should boast about more than four waiters . 
+ -45.64292
+ No hospital should boast about at least four waiters . 
+ -42.528908
+
+No waiter is visiting fewer than nine teenagers . 
+ -43.646954
+ No waiter is visiting at most nine teenagers . 
+ -43.450382
+
+No drawing did look like fewer than three drivers . 
+ -46.97048
+ No drawing did look like at most three drivers . 
+ -44.114944
+
+No actress criticizes more than four rivers . 
+ -26.632973
+ No actress criticizes at least four rivers . 
+ -26.957859
+
+No guy had known fewer than six doctors . 
+ -38.820972
+ No guy had known at most six doctors . 
+ -40.095608
+
+No guy might approach fewer than three pedestrians . 
+ -43.05918
+ No guy might approach at most three pedestrians . 
+ -42.192375
+
+No fish found more than two computers . 
+ -21.871408
+ No fish found at least two computers . 
+ -23.816696
+
+No guest had visited more than eight libraries . 
+ -34.561726
+ No guest had visited at least eight libraries . 
+ -35.356567
+
+No man has broken more than eight screens . 
+ -35.81939
+ No man has broken at least eight screens . 
+ -36.660755
+
+No guy might break more than nine cars . 
+ -37.40719
+ No guy might break at least nine cars . 
+ -36.90871
+
+No guest kissed more than five guests . 
+ -23.587202
+ No guest kissed at least five guests . 
+ -27.562805
+
+No customer can admire more than two newspaper articles . 
+ -33.422947
+ No customer can admire at least two newspaper articles . 
+ -36.217327
+
+No waitress had walked through fewer than six art galleries . 
+ -56.720768
+ No waitress had walked through at most six art galleries . 
+ -57.98016
+
+No patient remembers fewer than two actresses . 
+ -27.788267
+ No patient remembers at most two actresses . 
+ -32.54037
+
+No girl was messing up more than seven couches . 
+ -43.42752
+ No girl was messing up at least seven couches . 
+ -44.342594
+
+No actor had loved fewer than nine documentaries . 
+ -45.700653
+ No actor had loved at most nine documentaries . 
+ -46.89122
+
+No child had attacked more than nine girls . 
+ -34.248955
+ No child had attacked at least nine girls . 
+ -36.62111
+
+No association might talk about more than seven libraries . 
+ -39.777145
+ No association might talk about at least seven libraries . 
+ -41.26683
+
+No waiter can bike to more than ten mountains . 
+ -41.91203
+ No waiter can bike to at least ten mountains . 
+ -42.727303
+
+No teenager passes fewer than eight libraries . 
+ -27.433504
+ No teenager passes at most eight libraries . 
+ -33.68487
+
+No school had hated fewer than three ladies . 
+ -38.9252
+ No school had hated at most three ladies . 
+ -39.05757
+
+No doctor has fixed more than eight dishes . 
+ -34.831543
+ No doctor has fixed at least eight dishes . 
+ -40.027367
+
+No customer has concealed fewer than five students . 
+ -33.348816
+ No customer has concealed at most five students . 
+ -38.625587
+
+No driver had argued about more than ten waitresses . 
+ -46.178623
+ No driver had argued about at least ten waitresses . 
+ -46.374638
+
+No turtle finds more than nine doctors . 
+ -29.292603
+ No turtle finds at least nine doctors . 
+ -29.833595
+
+No dress was distracting more than three guys . 
+ -39.68492
+ No dress was distracting at least three guys . 
+ -35.502846
+
+No patient descended fewer than nine hills . 
+ -27.472738
+ No patient descended at most nine hills . 
+ -35.21968
+
+No customer would exit more than two college campuses . 
+ -40.787148
+ No customer would exit at least two college campuses . 
+ -37.714783
+
+No guest did talk about more than five guys . 
+ -38.727375
+ No guest did talk about at least five guys . 
+ -36.53881
+
+No actress is worrying fewer than nine organizations . 
+ -41.50536
+ No actress is worrying at most nine organizations . 
+ -42.286575
+
+No bank might take fewer than eight forks . 
+ -41.919662
+ No bank might take at most eight forks . 
+ -43.085285
+
+No waitress will boycott more than eight lakes . 
+ -39.10604
+ No waitress will boycott at least eight lakes . 
+ -39.681316
+
+No boy will bike to more than three mountains . 
+ -41.01596
+ No boy will bike to at least three mountains . 
+ -40.961113
+
+No commentary was describing fewer than eight adults . 
+ -40.74361
+ No commentary was describing at most eight adults . 
+ -41.23344
+
+No actress saw fewer than seven senators . 
+ -26.384392
+ No actress saw at most seven senators . 
+ -34.622837
+
+No waiter dislikes fewer than three restaurants . 
+ -26.278902
+ No waiter dislikes at most three restaurants . 
+ -32.238647
+
+No driver approaches fewer than nine teachers . 
+ -25.782352
+ No driver approaches at most nine teachers . 
+ -33.529297
+
+No waiter has biked to more than eight malls . 
+ -47.043392
+ No waiter has biked to at least eight malls . 
+ -47.754063
+
+No hamster will embarrass more than six teenagers . 
+ -38.257202
+ No hamster will embarrass at least six teenagers . 
+ -41.82257
+
+No pedestrian had left fewer than three cashiers . 
+ -41.365276
+ No pedestrian had left at most three cashiers . 
+ -42.20903
+
+No student should help more than six guests . 
+ -31.856077
+ No student should help at least six guests . 
+ -34.319077
+
+No guest climbed down more than ten stairs . 
+ -35.005413
+ No guest climbed down at least ten stairs . 
+ -36.362137
+
+No waiter is talking to more than seven drivers . 
+ -40.27896
+ No waiter is talking to at least seven drivers . 
+ -40.089394
+
+No school could impress more than seven hospitals . 
+ -37.134686
+ No school could impress at least seven hospitals . 
+ -37.73631
+
+No waiter goes to more than four hospitals . 
+ -33.761715
+ No waiter goes to at least four hospitals . 
+ -32.488396
+
+No customer had fixed more than nine mirrors . 
+ -41.865467
+ No customer had fixed at least nine mirrors . 
+ -42.623085
+
+No student toured more than nine movie theaters . 
+ -32.022137
+ No student toured at least nine movie theaters . 
+ -33.527767
+
+No slope hurt fewer than six waitresses . 
+ -30.505945
+ No slope hurt at most six waitresses . 
+ -37.575836
+
+No patient cleaned fewer than six malls . 
+ -32.586693
+ No patient cleaned at most six malls . 
+ -39.656586
+
+No teenager tours fewer than ten movie theaters . 
+ -34.818447
+ No teenager tours at most ten movie theaters . 
+ -42.352787
+
+No driver has dropped by more than three libraries . 
+ -30.371658
+ No driver has dropped by at least three libraries . 
+ -31.280441
+
+No teacher broke more than six glasses . 
+ -25.05548
+ No teacher broke at least six glasses . 
+ -25.046629
+
+No student is criticizing more than seven high schools . 
+ -38.11773
+ No student is criticizing at least seven high schools . 
+ -39.750607
+
+No hamster climbed down fewer than three hills . 
+ -39.919147
+ No hamster climbed down at most three hills . 
+ -41.383656
+
+No actress fired fewer than ten pedestrians . 
+ -28.882143
+ No actress fired at most ten pedestrians . 
+ -39.344063
+
+No man talks to more than two doctors . 
+ -32.73561
+ No man talks to at least two doctors . 
+ -28.035
+
+No pedestrian was dropping by fewer than eight cafes . 
+ -49.551403
+ No pedestrian was dropping by at most eight cafes . 
+ -47.199707
+
+No doctor will conceal fewer than three chairs . 
+ -39.791283
+ No doctor will conceal at most three chairs . 
+ -38.007236
+
+No university might hire more than eight patients . 
+ -32.14987
+ No university might hire at least eight patients . 
+ -32.439423
+
+No teacher is criticizing fewer than five reports . 
+ -38.941833
+ No teacher is criticizing at most five reports . 
+ -43.340927
+
+No teacher was kissing more than nine boys . 
+ -37.191784
+ No teacher was kissing at least nine boys . 
+ -37.870724
+
+No man conceals more than four newspaper articles . 
+ -30.492706
+ No man conceals at least four newspaper articles . 
+ -31.05752
+
+No driver should fire more than six adults . 
+ -34.539528
+ No driver should fire at least six adults . 
+ -28.285673
+
+No patient is running around more than two museums . 
+ -42.131912
+ No patient is running around at least two museums . 
+ -40.19206
+
+No actress boycotts fewer than seven grocery stores . 
+ -31.153992
+ No actress boycotts at most seven grocery stores . 
+ -38.58935
+
+No actress boycotted more than three legislatures . 
+ -28.986847
+ No actress boycotted at least three legislatures . 
+ -29.728926
+
+No actress had talked to fewer than nine people . 
+ -34.30769
+ No actress had talked to at most nine people . 
+ -38.47019
+
+No man bikes to fewer than six movie theaters . 
+ -43.70964
+ No man bikes to at most six movie theaters . 
+ -44.42477
+
+No commentary had aggravated more than four people . 
+ -29.3442
+ No commentary had aggravated at least four people . 
+ -29.739225
+
+No person has kissed more than nine patients . 
+ -35.20377
+ No person has kissed at least nine patients . 
+ -35.441414
+
+No guy might clean fewer than three couches . 
+ -42.00936
+ No guy might clean at most three couches . 
+ -42.63775
+
+No teacher is escaping from fewer than nine students . 
+ -39.846264
+ No teacher is escaping from at most nine students . 
+ -43.906853
+
+No student should talk to more than eight men . 
+ -30.126955
+ No student should talk to at least eight men . 
+ -28.992321
+
+No actress scanned more than eight reports . 
+ -27.909088
+ No actress scanned at least eight reports . 
+ -30.416943
+
+No computer had scared more than eight waitresses . 
+ -41.80945
+ No computer had scared at least eight waitresses . 
+ -43.294746
+
+No person approaches fewer than two boys . 
+ -23.78656
+ No person approaches at most two boys . 
+ -28.143808
+
+No boy explores more than seven restaurants . 
+ -29.873796
+ No boy explores at least seven restaurants . 
+ -29.921375
+
+No legislature loves more than ten teachers . 
+ -21.214796
+ No legislature loves at least ten teachers . 
+ -25.752796
+
+No cashier was visiting more than seven guys . 
+ -37.20539
+ No cashier was visiting at least seven guys . 
+ -35.42424
+
+No waitress would clean fewer than eight steps . 
+ -39.08051
+ No waitress would clean at most eight steps . 
+ -40.62417
+
+No photograph looks like fewer than two teachers . 
+ -39.238743
+ No photograph looks like at most two teachers . 
+ -37.425922
+
+No actor had broken fewer than ten mirrors . 
+ -43.84685
+ No actor had broken at most ten mirrors . 
+ -45.41258
+
+No woman approached fewer than four men . 
+ -19.628296
+ No woman approached at most four men . 
+ -26.771055
+
+No guest had cared for fewer than five customers . 
+ -37.04339
+ No guest had cared for at most five customers . 
+ -38.150276
+
+No actress had driven to fewer than seven grocery stores . 
+ -49.057972
+ No actress had driven to at most seven grocery stores . 
+ -49.469208
+
+No school disturbed fewer than eight patients . 
+ -24.702436
+ No school disturbed at most eight patients . 
+ -30.750109
+
+No customer does break fewer than four windows . 
+ -39.294647
+ No customer does break at most four windows . 
+ -38.954727
+
+No teenager knows more than seven customers . 
+ -28.262177
+ No teenager knows at least seven customers . 
+ -28.95154
+
+No teenager had broken more than five mirrors . 
+ -36.870346
+ No teenager had broken at least five mirrors . 
+ -37.12638
+
+No tomato is annoying fewer than six customers . 
+ -40.424316
+ No tomato is annoying at most six customers . 
+ -40.918957
+
+No lady will criticize fewer than three grocery stores . 
+ -43.655838
+ No lady will criticize at most three grocery stores . 
+ -44.758465
+
+No waitress cleans fewer than seven dogs . 
+ -25.258461
+ No waitress cleans at most seven dogs . 
+ -32.69382
+
+No adult dislikes more than four customers . 
+ -22.956644
+ No adult dislikes at least four customers . 
+ -29.01182
+
+No museum has more than ten windows . 
+ -22.425596
+ No museum has at least ten windows . 
+ -26.391472
+
+No screen upset fewer than five senators . 
+ -25.600803
+ No screen upset at most five senators . 
+ -32.83191
+
+No doctor has seen fewer than two adults . 
+ -32.355766
+ No doctor has seen at most two adults . 
+ -37.305363
+
+No guy could admire more than three actresses . 
+ -33.73684
+ No guy could admire at least three actresses . 
+ -37.36448
+
+No lady insults more than eight actors . 
+ -29.158161
+ No lady insults at least eight actors . 
+ -32.97006
+
+No pedestrian had ran around more than three malls . 
+ -47.628128
+ No pedestrian had ran around at least three malls . 
+ -46.741123
+
+No waitress was referencing fewer than seven waitresses . 
+ -48.13904
+ No waitress was referencing at most seven waitresses . 
+ -50.18001
+
+No student should clean more than four cars . 
+ -34.869812
+ No student should clean at least four cars . 
+ -34.13665
+
+No hospital was insulting fewer than eight grocery stores . 
+ -45.931725
+ No hospital was insulting at most eight grocery stores . 
+ -48.344643
+
+No cat worried fewer than nine actors . 
+ -27.70326
+ No cat worried at most nine actors . 
+ -35.450207
+
+No guy sees fewer than ten teenagers . 
+ -28.954548
+ No guy sees at most ten teenagers . 
+ -34.532696
+
+No actor has criticized fewer than four plays . 
+ -36.17799
+ No actor has criticized at most four plays . 
+ -39.24605
+
+No actor has explored fewer than three hospitals . 
+ -40.5169
+ No actor has explored at most three hospitals . 
+ -38.8241
+
+No student hid fewer than four newspaper articles . 
+ -31.33963
+ No student hid at most four newspaper articles . 
+ -37.796032
+
+No person admired fewer than three fish . 
+ -25.937212
+ No person admired at most three fish . 
+ -31.685194
+
+No hospital hired more than ten adults . 
+ -26.108355
+ No hospital hired at least ten adults . 
+ -27.148703
+
+No pedestrian was scanning more than nine documentaries . 
+ -42.93354
+ No pedestrian was scanning at least nine documentaries . 
+ -43.377823
+
+No guest visited more than ten schools . 
+ -21.544838
+ No guest visited at least ten schools . 
+ -24.669094
+
+No bird was stunning fewer than eight guests . 
+ -38.35281
+ No bird was stunning at most eight guests . 
+ -40.570038
+
+No girl should sell more than nine bananas . 
+ -37.966393
+ No girl should sell at least nine bananas . 
+ -37.45489
+
+No cashier is going to more than three lakes . 
+ -37.45823
+ No cashier is going to at least three lakes . 
+ -36.217106
+
+No actor had hated fewer than five patients . 
+ -35.9067
+ No actor had hated at most five patients . 
+ -38.565308
+
+No waiter drops by fewer than six hills . 
+ -39.434547
+ No waiter drops by at most six hills . 
+ -36.357788
+
+No child remembers more than three high schools . 
+ -25.964952
+ No child remembers at least three high schools . 
+ -25.927217
+
+No guest has hired more than three men . 
+ -22.425507
+ No guest has hired at least three men . 
+ -28.332878
+
+No actress fixes fewer than six chairs . 
+ -25.142574
+ No actress fixes at most six chairs . 
+ -32.212467
+
+No computer has stunned more than five banks . 
+ -36.700775
+ No computer has stunned at least five banks . 
+ -36.21387
+
+No guy watches fewer than ten cashiers . 
+ -33.940685
+ No guy watches at most ten cashiers . 
+ -41.475025
+
+No waiter might see more than four dancers . 
+ -33.62369
+ No waiter might see at least four dancers . 
+ -32.76931
+
+No pedestrian argued about fewer than ten women . 
+ -35.319633
+ No pedestrian argued about at most ten women . 
+ -38.984776
+
+No guy has left more than nine libraries . 
+ -35.53807
+ No guy has left at least nine libraries . 
+ -33.53431
+
+No company irritated more than four actresses . 
+ -28.543152
+ No company irritated at least four actresses . 
+ -34.11444
+
+No guest had kissed fewer than nine waitresses . 
+ -48.667076
+ No guest had kissed at most nine waitresses . 
+ -49.833218
+
+No actor will arrive at more than three restaurants . 
+ -35.312347
+ No actor will arrive at at least three restaurants . 
+ -36.980362
+
+No guest exits more than six museums . 
+ -30.630898
+ No guest exits at least six museums . 
+ -33.25738
+
+No teenager does leave fewer than five college campuses . 
+ -43.054935
+ No teenager does leave at most five college campuses . 
+ -45.219307
+
+No customer had climbed up more than two steps . 
+ -32.738007
+ No customer had climbed up at least two steps . 
+ -32.116188
+
+No woman talked to more than eight students . 
+ -27.515327
+ No woman talked to at least eight students . 
+ -29.896719
+
+No customer had skated around fewer than three grocery stores . 
+ -50.24777
+ No customer had skated around at most three grocery stores . 
+ -50.26016
+
+No school confused fewer than seven customers . 
+ -27.807678
+ No school confused at most seven customers . 
+ -35.24304
+
+No bicycle is disgusting fewer than ten men . 
+ -31.761303
+ No bicycle is disgusting at most ten men . 
+ -32.57985
+
+No guest would sound like fewer than nine books . 
+ -41.50433
+ No guest would sound like at most nine books . 
+ -45.06393
+
+No teacher cared for fewer than nine teachers . 
+ -36.578743
+ No teacher cared for at most nine teachers . 
+ -37.562157
+
+No actress is exiting more than eight lakes . 
+ -39.6718
+ No actress is exiting at least eight lakes . 
+ -37.461723
+
+No guest was finding more than eight mountains . 
+ -36.147465
+ No guest was finding at least eight mountains . 
+ -37.518944
+
+No girl was hugging fewer than seven girls . 
+ -39.07864
+ No girl was hugging at most seven girls . 
+ -41.471188
+
+No story conceals fewer than three children . 
+ -15.782771
+ No story conceals at most three children . 
+ -23.428955
+
+No legislature should admire more than nine reports . 
+ -34.50298
+ No legislature should admire at least nine reports . 
+ -39.087784
+
+No pedestrian climbs down more than four hills . 
+ -35.662064
+ No pedestrian climbs down at least four hills . 
+ -35.051373
+
+No customer had respected fewer than five waiters . 
+ -42.85829
+ No customer had respected at most five waiters . 
+ -44.036606
+
+No waiter references fewer than eight actresses . 
+ -30.250101
+ No waiter references at most eight actresses . 
+ -37.52807
+
+No customer can remember fewer than six hills . 
+ -41.573097
+ No customer can remember at most six hills . 
+ -41.830246
+
+No customer walks through more than four malls . 
+ -39.668884
+ No customer walks through at least four malls . 
+ -38.710293
+
+No student dropped by more than seven grocery stores . 
+ -33.844177
+ No student dropped by at least seven grocery stores . 
+ -36.043427
+
+No teenager might examine fewer than nine reports . 
+ -41.069324
+ No teenager might examine at most nine reports . 
+ -41.031136
+
+No picture is looking like more than three mouths . 
+ -39.54822
+ No picture is looking like at least three mouths . 
+ -42.272152
+
+No library remembered more than seven adults . 
+ -27.540901
+ No library remembered at least seven adults . 
+ -29.230703
+
+No legislature is disturbing more than seven senators . 
+ -38.123314
+ No legislature is disturbing at least seven senators . 
+ -37.475544
+
+No teenager runs around more than three high schools . 
+ -36.687977
+ No teenager runs around at least three high schools . 
+ -34.063675
+
+No woman referenced fewer than six guys . 
+ -26.298244
+ No woman referenced at most six guys . 
+ -33.368137
+
+No person is biking to fewer than three restaurants . 
+ -45.106125
+ No person is biking to at most three restaurants . 
+ -45.849945
+
+No pedestrian has broken fewer than six plates . 
+ -40.01759
+ No pedestrian has broken at most six plates . 
+ -40.80742
+
+No driver would confuse more than four cashiers . 
+ -36.543575
+ No driver would confuse at least four cashiers . 
+ -41.395714
+
+No committee could admire fewer than six adults . 
+ -39.74315
+ No committee could admire at most six adults . 
+ -39.908203
+
+No hospital would work with more than four doctors . 
+ -34.93416
+ No hospital would work with at least four doctors . 
+ -35.274246
+
+No person had referenced fewer than six documentaries . 
+ -44.798668
+ No person had referenced at most six documentaries . 
+ -45.04038
+
+No student had worn more than four glasses . 
+ -30.53506
+ No student had worn at least four glasses . 
+ -30.958252
+
+No teacher admires fewer than nine teachers . 
+ -25.782352
+ No teacher admires at most nine teachers . 
+ -33.529297
+
+No customer appreciates more than six libraries . 
+ -26.806374
+ No customer appreciates at least six libraries . 
+ -28.97676
+
+No student should bike to more than six college campuses . 
+ -46.763462
+ No student should bike to at least six college campuses . 
+ -47.299423
+
+No commentary hurt fewer than two cashiers . 
+ -29.895721
+ No commentary hurt at most two cashiers . 
+ -34.647827
+
+No actress remembers more than five cafes . 
+ -29.889172
+ No actress remembers at least five cafes . 
+ -30.84003
+
+No art gallery was hurting fewer than two committees . 
+ -50.70668
+ No art gallery was hurting at most two committees . 
+ -51.83039
+
+No association listens to fewer than six doctors . 
+ -38.895893
+ No association listens to at most six doctors . 
+ -38.353355
+
+No actress lifted fewer than two eyes . 
+ -22.831047
+ No actress lifted at most two eyes . 
+ -28.34729
+
+No patient examines fewer than three stories . 
+ -19.943285
+ No patient examines at most three stories . 
+ -27.951517
+
+No girl was arguing about fewer than seven waitresses . 
+ -54.837963
+ No girl was arguing about at most seven waitresses . 
+ -55.23606
+
+No fish might hurt fewer than two legislatures . 
+ -41.51066
+ No fish might hurt at most two legislatures . 
+ -40.78232
+
+No woman did exit fewer than eight college campuses . 
+ -48.5086
+ No woman did exit at most eight college campuses . 
+ -48.564404
+
+No adult investigated fewer than seven dancers . 
+ -28.03445
+ No adult investigated at most seven dancers . 
+ -35.469814
+
+No actor would admire more than seven boys . 
+ -31.733644
+ No actor would admire at least seven boys . 
+ -35.6162
+
+No guy sounds like fewer than eight cafes . 
+ -47.181873
+ No guy sounds like at most eight cafes . 
+ -47.071667
+
+No actress does fix more than five forks . 
+ -38.31172
+ No actress does fix at least five forks . 
+ -38.095234
+
+No boy toured more than six art galleries . 
+ -36.462463
+ No boy toured at least six art galleries . 
+ -37.927197
+
+No pedestrian is lifting more than five stairs . 
+ -36.747227
+ No pedestrian is lifting at least five stairs . 
+ -37.257236
+
+No boy is exploring fewer than four museums . 
+ -42.1391
+ No boy is exploring at most four museums . 
+ -42.011284
+
+No child complains about fewer than six guys . 
+ -41.978374
+ No child complains about at most six guys . 
+ -43.232906
+
+No child does hug more than four senators . 
+ -34.878693
+ No child does hug at least four senators . 
+ -36.866108
+
+No newspaper article had shocked more than five pedestrians . 
+ -52.65674
+ No newspaper article had shocked at least five pedestrians . 
+ -53.990913
+
+No rabbit had found fewer than nine books . 
+ -33.356117
+ No rabbit had found at most nine books . 
+ -37.67802
+
+No actress exits fewer than nine museums . 
+ -27.793646
+ No actress exits at most nine museums . 
+ -35.540592
+
+No teacher tours fewer than three restaurants . 
+ -26.278902
+ No teacher tours at most three restaurants . 
+ -32.238647
+
+No high school bored more than six teachers . 
+ -32.450634
+ No high school bored at least six teachers . 
+ -34.938774
+
+No cat conceals more than nine waitresses . 
+ -33.907867
+ No cat conceals at least nine waitresses . 
+ -34.68356
+
+No guy can hug more than eight people . 
+ -30.335346
+ No guy can hug at least eight people . 
+ -29.951372
+
+No teacher fixed fewer than ten windows . 
+ -24.852406
+ No teacher fixed at most ten windows . 
+ -34.12686
+
+No waiter will sell fewer than four birds . 
+ -33.87894
+ No waiter will sell at most four birds . 
+ -36.65966
+
+No computer annoyed more than seven adults . 
+ -26.228586
+ No computer annoyed at least seven adults . 
+ -33.44877
+
+No waiter should skate around fewer than two art galleries . 
+ -53.299984
+ No waiter should skate around at most two art galleries . 
+ -52.104736
+
+No senator was curing more than four students . 
+ -31.35723
+ No senator was curing at least four students . 
+ -33.273808
+
+No actor was climbing down fewer than two steps . 
+ -41.23814
+ No actor was climbing down at most two steps . 
+ -38.283695
+
+No senator will exit fewer than three college campuses . 
+ -46.160152
+ No senator will exit at most three college campuses . 
+ -42.911346
+
+No pedestrian exited fewer than five schools . 
+ -21.271614
+ No pedestrian exited at most five schools . 
+ -31.392876
+
+No guy walks through more than ten rivers . 
+ -33.909092
+ No guy walks through at least ten rivers . 
+ -35.36902
+
+No driver passes fewer than eight hills . 
+ -27.241613
+ No driver passes at most eight hills . 
+ -33.49298
+
+No girl had astounded more than three museums . 
+ -37.321945
+ No girl had astounded at least three museums . 
+ -33.781353
+
+No waiter is arriving at fewer than three banks . 
+ -42.2917
+ No waiter is arriving at at most three banks . 
+ -45.559925
+
+No cashier complains about fewer than eight adults . 
+ -41.88029
+ No cashier complains about at most eight adults . 
+ -43.3429
+
+No rabbit climbs down more than ten hills . 
+ -36.92167
+ No rabbit climbs down at least ten hills . 
+ -36.695316
+
+No library had fewer than six steps . 
+ -21.093605
+ No library had at most six steps . 
+ -26.841236
+
+No hamster would resemble more than four photographs . 
+ -34.90962
+ No hamster would resemble at least four photographs . 
+ -35.05476
+
+No driver does forget more than eight actors . 
+ -39.010773
+ No driver does forget at least eight actors . 
+ -39.12835
+
+No guest had fewer than seven mirrors . 
+ -28.25802
+ No guest had at most seven mirrors . 
+ -35.157246
+
+No commentary is concealing more than eight actresses . 
+ -39.7425
+ No commentary is concealing at least eight actresses . 
+ -41.42092
+
+No customer escaped from more than three adults . 
+ -32.44143
+ No customer escaped from at least three adults . 
+ -29.38078
+
+No guest was arguing about fewer than nine students . 
+ -45.844925
+ No guest was arguing about at most nine students . 
+ -46.74256
+
+No student can talk about more than three girls . 
+ -32.196674
+ No student can talk about at least three girls . 
+ -32.665573
+
+No senator has revealed fewer than ten newspaper articles . 
+ -46.261166
+ No senator has revealed at most ten newspaper articles . 
+ -50.035767
+
+No committee alarmed fewer than five libraries . 
+ -26.852268
+ No committee alarmed at most five libraries . 
+ -34.075752
+
+No teenager visits more than two senators . 
+ -23.176397
+ No teenager visits at least two senators . 
+ -25.311384
+
+No library has shocked fewer than two teenagers . 
+ -41.252945
+ No library has shocked at most two teenagers . 
+ -36.50944
+
+No mall embarrassed more than five universities . 
+ -24.398598
+ No mall embarrassed at least five universities . 
+ -28.718197
+
+No boy insults more than eight customers . 
+ -29.082811
+ No boy insults at least eight customers . 
+ -32.89471
+
+No university was hiring more than ten teenagers . 
+ -36.33007
+ No university was hiring at least ten teenagers . 
+ -36.990246
+
+No person has seen more than two windows . 
+ -27.156088
+ No person has seen at least two windows . 
+ -23.53571
+
+No nose would confuse fewer than four actresses . 
+ -43.187878
+ No nose would confuse at most four actresses . 
+ -46.063656
+
+No waiter had driven to fewer than seven high schools . 
+ -45.492516
+ No waiter had driven to at most seven high schools . 
+ -46.545906
+
+No girl has gone to fewer than five lakes . 
+ -40.363007
+ No girl has gone to at most five lakes . 
+ -41.01081
+
+No child attacks more than eight teenagers . 
+ -30.01379
+ No child attacks at least eight teenagers . 
+ -32.885174
+
+No person disliked fewer than three teachers . 
+ -19.090414
+ No person disliked at most three teachers . 
+ -30.6179
+
+No actor has respected fewer than seven pedestrians . 
+ -45.529892
+ No actor has respected at most seven pedestrians . 
+ -46.92008
+
+No play boasts about more than two essays . 
+ -35.177837
+ No play boasts about at least two essays . 
+ -33.5994
+
+No play will discuss fewer than seven stories . 
+ -37.06576
+ No play will discuss at most seven stories . 
+ -38.97811
+
+No university hired fewer than six customers . 
+ -24.980606
+ No university hired at most six customers . 
+ -32.927975
+
+No dog is breaking more than ten chairs . 
+ -36.509007
+ No dog is breaking at least ten chairs . 
+ -36.37208
+
+No hospital had fewer than ten plates . 
+ -23.350357
+ No hospital had at most ten plates . 
+ -29.557995
+
+No teenager is approaching more than eight girls . 
+ -36.308937
+ No teenager is approaching at least eight girls . 
+ -35.37015
+
+No bank has talked about fewer than six children . 
+ -37.853767
+ No bank has talked about at most six children . 
+ -38.88383
+
+No lady has skated around fewer than nine grocery stores . 
+ -52.99371
+ No lady has skated around at most nine grocery stores . 
+ -54.7933
+
+No waitress fired fewer than nine ladies . 
+ -26.093018
+ No waitress fired at most nine ladies . 
+ -36.76754
+
+No shirt annoyed more than seven legislatures . 
+ -29.70888
+ No shirt annoyed at least seven legislatures . 
+ -36.92906
+
+No library had embarrassed more than eight libraries . 
+ -37.701622
+ No library had embarrassed at least eight libraries . 
+ -39.886272
+
+No actor had hated more than ten actors . 
+ -32.156723
+ No actor had hated at least ten actors . 
+ -38.495743
+
+No child can break fewer than ten forks . 
+ -44.534073
+ No child can break at most ten forks . 
+ -45.329273
+
+No student exited more than seven closets . 
+ -32.47533
+ No student exited at least seven closets . 
+ -33.658085
+
+No cat had ascended fewer than eight hills . 
+ -41.78506
+ No cat had ascended at most eight hills . 
+ -42.545616
+
+No child kissed fewer than three children . 
+ -15.782771
+ No child kissed at most three children . 
+ -23.428955
+
+No driver does heal fewer than nine teachers . 
+ -40.3258
+ No driver does heal at most nine teachers . 
+ -42.201935
+
+No woman was lifting fewer than three newspaper articles . 
+ -45.655537
+ No woman was lifting at most three newspaper articles . 
+ -44.57027
+
+No actor had complained about more than ten men . 
+ -31.243252
+ No actor had complained about at least ten men . 
+ -33.959866
+
+No patient had found more than three prints . 
+ -33.122715
+ No patient had found at least three prints . 
+ -32.02696
+
+No doctor has boycotted fewer than three public parks . 
+ -45.182415
+ No doctor has boycotted at most three public parks . 
+ -45.833218
+
+No person disliked fewer than six high schools . 
+ -27.303375
+ No person disliked at most six high schools . 
+ -34.15022
+
+No waitress lifts more than five hills . 
+ -25.647373
+ No waitress lifts at least five hills . 
+ -29.263212
+
+No teacher had concealed fewer than four cups . 
+ -28.858833
+ No teacher had concealed at most four cups . 
+ -39.848293
+
+No painting should aggravate fewer than two patients . 
+ -39.780792
+ No painting should aggravate at most two patients . 
+ -39.997864
+
+No hospital should buy more than five dishes . 
+ -32.61399
+ No hospital should buy at least five dishes . 
+ -31.287407
+
+No teacher lifts fewer than three fish . 
+ -25.937212
+ No teacher lifts at most three fish . 
+ -31.685194
+
+No lady loved fewer than eight adults . 
+ -26.200161
+ No lady loved at most eight adults . 
+ -33.478127
+
+No teenager disgusted fewer than three waitresses . 
+ -28.611046
+ No teenager disgusted at most three waitresses . 
+ -34.570793
+
+No cashier has climbed down more than seven stairs . 
+ -42.760937
+ No cashier has climbed down at least seven stairs . 
+ -44.36674
+
+No student knows more than nine students . 
+ -23.14575
+ No student knows at least nine students . 
+ -25.64599
+
+No customer was skated around more than three hills . 
+ -42.353912
+ No customer was skated around at least three hills . 
+ -40.558956
+
+No cat is shocking fewer than eight universities . 
+ -39.87948
+ No cat is shocking at most eight universities . 
+ -41.186863
+
+No picture might irritate more than two waiters . 
+ -35.609634
+ No picture might irritate at least two waiters . 
+ -39.3796
+
+No actress goes to fewer than four college campuses . 
+ -41.874165
+ No actress goes to at most four college campuses . 
+ -44.211823
+
+No actress tours more than six cafes . 
+ -31.286156
+ No actress tours at least six cafes . 
+ -34.125553
+
+No student had listened to fewer than four drivers . 
+ -41.467464
+ No student had listened to at most four drivers . 
+ -38.271263
+
+No dancer did walk through fewer than two restaurants . 
+ -47.11268
+ No dancer did walk through at most two restaurants . 
+ -42.790344
+
+No cashier is observing more than ten waitresses . 
+ -39.83094
+ No cashier is observing at least ten waitresses . 
+ -40.08925
+
+No pedestrian does scare more than ten teenagers . 
+ -39.521484
+ No pedestrian does scare at least ten teenagers . 
+ -40.092907
+
+No hamster is finding fewer than seven mirrors . 
+ -38.834736
+ No hamster is finding at most seven mirrors . 
+ -44.830463
+
+No hat looked like fewer than eight sketches . 
+ -44.984684
+ No hat looked like at most eight sketches . 
+ -43.4555
+
+No senator has brought fewer than five mountains . 
+ -38.109615
+ No senator has brought at most five mountains . 
+ -42.230778
+
+No student fired more than two students . 
+ -18.960896
+ No student fired at least two students . 
+ -23.47271
+
+No pedestrian would approach fewer than seven dancers . 
+ -42.577904
+ No pedestrian would approach at most seven dancers . 
+ -42.446556
+
+No guy loves more than eight customers . 
+ -27.126888
+ No guy loves at least eight customers . 
+ -29.707535
+
+No waiter knew fewer than ten girls . 
+ -23.605389
+ No waiter knew at most ten girls . 
+ -31.761234
+
+No photograph has looked like more than six turtles . 
+ -44.553486
+ No photograph has looked like at least six turtles . 
+ -43.837753
+
+No rabbit had hidden fewer than two shoes . 
+ -41.5918
+ No rabbit had hidden at most two shoes . 
+ -39.330826
+
+No student might argue about more than four boys . 
+ -40.589275
+ No student might argue about at least four boys . 
+ -39.924908
+
+No vase should hurt fewer than seven customers . 
+ -42.591312
+ No vase should hurt at most seven customers . 
+ -42.642582
+
+No public park is shocking fewer than ten cashiers . 
+ -62.3301
+ No public park is shocking at most ten cashiers . 
+ -63.31951
+
+No commentary can describe fewer than two waitresses . 
+ -43.317955
+ No commentary can describe at most two waitresses . 
+ -41.525658
+
+No girl did drive to more than seven hills . 
+ -37.834225
+ No girl did drive to at least seven hills . 
+ -39.234116
+
+No man is touring fewer than nine grocery stores . 
+ -45.951538
+ No man is touring at most nine grocery stores . 
+ -48.25604
+
+No patient hates fewer than two teenagers . 
+ -26.709496
+ No patient hates at most two teenagers . 
+ -31.461597
+
+No driver boycotted fewer than two libraries . 
+ -27.104774
+ No driver boycotted at most two libraries . 
+ -31.550602
+
+No cashier cleaned more than six newspaper articles . 
+ -32.597923
+ No cashier cleaned at least six newspaper articles . 
+ -32.08788
+
+No customer cleans fewer than seven banks . 
+ -26.465836
+ No customer cleans at most seven banks . 
+ -33.901196
+
+No person should alarm more than eight cashiers . 
+ -43.282524
+ No person should alarm at least eight cashiers . 
+ -42.935154
+
+No lady worked with fewer than eight waiters . 
+ -39.59108
+ No lady worked with at most eight waiters . 
+ -39.9976
+
+No chair had confused fewer than five schools . 
+ -35.815063
+ No chair had confused at most five schools . 
+ -39.429417
+
+No pedestrian was going to fewer than three banks . 
+ -39.971615
+ No pedestrian was going to at most three banks . 
+ -39.55407
+
+No newspaper article has resembled more than nine pictures . 
+ -47.899536
+ No newspaper article has resembled at least nine pictures . 
+ -53.020836
+
+No customer climbs up fewer than eight steps . 
+ -37.887066
+ No customer climbs up at most eight steps . 
+ -40.10452
+
+No doctor did lift fewer than two steps . 
+ -36.14846
+ No doctor did lift at most two steps . 
+ -31.461458
+
+No senator could annoy fewer than six drivers . 
+ -42.025105
+ No senator could annoy at most six drivers . 
+ -45.09455
+
+No couch has confused fewer than three cashiers . 
+ -43.432697
+ No couch has confused at most three cashiers . 
+ -42.885536
+
+No guest disagrees with fewer than four senators . 
+ -34.703938
+ No guest disagrees with at most four senators . 
+ -36.78273
+
+No lady climbed down fewer than four ladders . 
+ -42.98296
+ No lady climbed down at most four ladders . 
+ -44.944122
+
+No closet has distracted more than five senators . 
+ -35.49092
+ No closet has distracted at least five senators . 
+ -34.547634
+
+No patient is working with fewer than seven cashiers . 
+ -47.587624
+ No patient is working with at most seven cashiers . 
+ -47.281418
+
+No mirror disturbed fewer than eight dancers . 
+ -26.83615
+ No mirror disturbed at most eight dancers . 
+ -34.114117
+
+No teacher is healing fewer than ten students . 
+ -32.733284
+ No teacher is healing at most ten students . 
+ -38.96285
+
+No guy is running around fewer than ten closets . 
+ -53.412712
+ No guy is running around at most ten closets . 
+ -53.917
+
+No banana is bothering more than seven ladies . 
+ -40.27256
+ No banana is bothering at least seven ladies . 
+ -38.653454
+
+No child is selling fewer than ten mountains . 
+ -39.174675
+ No child is selling at most ten mountains . 
+ -40.71489
+
+No teacher is disgusting more than seven actors . 
+ -39.46776
+ No teacher is disgusting at least seven actors . 
+ -38.55452
+
+No waitress visited more than two adults . 
+ -18.732798
+ No waitress visited at least two adults . 
+ -20.69368
+
+No waiter was irritating fewer than four men . 
+ -34.171745
+ No waiter was irritating at most four men . 
+ -33.48229
+
+No girl can annoy fewer than five organizations . 
+ -40.15512
+ No girl can annoy at most five organizations . 
+ -43.38968
+
+No child dropped by more than five movie theaters . 
+ -33.361095
+ No child dropped by at least five movie theaters . 
+ -35.03314
+
+No actor can lift fewer than eight ladders . 
+ -44.191563
+ No actor can lift at most eight ladders . 
+ -43.748047
+
+No waiter does examine more than four plays . 
+ -33.790688
+ No waiter does examine at least four plays . 
+ -28.262415
+
+No gate embarrassed more than eight drivers . 
+ -27.270086
+ No gate embarrassed at least eight drivers . 
+ -33.57416
+
+No fish will disgust more than ten waiters . 
+ -40.524982
+ No fish will disgust at least ten waiters . 
+ -38.417152
+
+No sketch could hurt more than three children . 
+ -22.204927
+ No sketch could hurt at least three children . 
+ -29.480125
+
+No adult breaks fewer than four vases . 
+ -27.525196
+ No adult breaks at most four vases . 
+ -33.981598
+
+No school boasts about more than ten girls . 
+ -34.160873
+ No school boasts about at least ten girls . 
+ -34.194683
+
+No adult saw more than three vases . 
+ -26.551497
+ No adult saw at least three vases . 
+ -27.0793
+
+No guest had hidden fewer than five men . 
+ -33.352516
+ No guest had hidden at most five men . 
+ -36.385162
+
+No picture can stun more than two children . 
+ -28.560566
+ No picture can stun at least two children . 
+ -25.292152
+
+No girl irritated more than seven doctors . 
+ -27.18023
+ No girl irritated at least seven doctors . 
+ -33.05715
+
+No person was messing up more than four couches . 
+ -40.89221
+ No person was messing up at least four couches . 
+ -41.825764
+
+No lady is boasting about more than five essays . 
+ -42.488636
+ No lady is boasting about at least five essays . 
+ -41.426422
+
+No guy was selling fewer than five eyes . 
+ -34.718773
+ No guy was selling at most five eyes . 
+ -37.883305
+
+No guy should describe more than eight adults . 
+ -35.249603
+ No guy should describe at least eight adults . 
+ -33.571785
+
+No senator is describing more than five mountains . 
+ -33.52864
+ No senator is describing at least five mountains . 
+ -35.851543
+
+No computer has looked like fewer than nine prints . 
+ -51.60304
+ No computer has looked like at most nine prints . 
+ -50.542835
+
+No boy had fixed more than ten glasses . 
+ -38.429604
+ No boy had fixed at least ten glasses . 
+ -36.67063
+
+No pedestrian did distract more than six hospitals . 
+ -36.613255
+ No pedestrian did distract at least six hospitals . 
+ -37.16504
+
+No waiter left fewer than two customers . 
+ -25.71961
+ No waiter left at most two customers . 
+ -32.16421
+
+No doctor will cure fewer than two dancers . 
+ -41.79149
+ No doctor will cure at most two dancers . 
+ -39.236618
+
+No patient had cared for fewer than eight people . 
+ -30.468765
+ No patient had cared for at most eight people . 
+ -35.128784
+
+No senator appreciates more than six books . 
+ -21.296438
+ No senator appreciates at least six books . 
+ -21.56622
+
+No government had remembered fewer than eight guys . 
+ -40.252506
+ No government had remembered at most eight guys . 
+ -41.76591
+
+No patient is returning to fewer than five guests . 
+ -38.527603
+ No patient is returning to at most five guests . 
+ -40.671177
+
+No newspaper article will look like more than nine paintings . 
+ -48.394485
+ No newspaper article will look like at least nine paintings . 
+ -47.660595
+
+No lady was kissing fewer than six ladies . 
+ -40.716526
+ No lady was kissing at most six ladies . 
+ -42.243233
+
+No actor will work with fewer than two ladies . 
+ -39.426105
+ No actor will work with at most two ladies . 
+ -36.242397
+
+No box did resemble more than four pictures . 
+ -34.09619
+ No box did resemble at least four pictures . 
+ -34.293022
+
+No senator toured more than six glaciers . 
+ -29.079113
+ No senator toured at least six glaciers . 
+ -30.543846
+
+No actress is praising more than five waiters . 
+ -39.29648
+ No actress is praising at least five waiters . 
+ -41.563576
+
+No child was boasting about more than eight books . 
+ -38.0108
+ No child was boasting about at least eight books . 
+ -38.110905
+
+No sketch does aggravate more than eight students . 
+ -31.59203
+ No sketch does aggravate at least eight students . 
+ -36.96125
+
+No guy should appreciate fewer than three schools . 
+ -36.056732
+ No guy should appreciate at most three schools . 
+ -37.696335
+
+No actress finds more than eight cars . 
+ -25.021313
+ No actress finds at least eight cars . 
+ -25.601486
+
+No senator hid fewer than six mouths . 
+ -21.803951
+ No senator hid at most six mouths . 
+ -31.860151
+
+No cashier escaped from more than six boys . 
+ -32.673065
+ No cashier escaped from at least six boys . 
+ -31.541185
+
+No boy attacked fewer than three guests . 
+ -24.932636
+ No boy attacked at most three guests . 
+ -31.546194
+
+No museum referenced fewer than two children . 
+ -16.798403
+ No museum referenced at most two children . 
+ -21.90027
+
+No closet was bothering more than eight hospitals . 
+ -40.461395
+ No closet was bothering at least eight hospitals . 
+ -39.18828
+
+No cafe had worried more than five banks . 
+ -32.37275
+ No cafe had worried at least five banks . 
+ -35.34911
+
+No dog ascended fewer than six mountains . 
+ -27.81459
+ No dog ascended at most six mountains . 
+ -34.884483
+
+No teenager is fixing fewer than seven vases . 
+ -43.895622
+ No teenager is fixing at most seven vases . 
+ -45.861988
+
+No movie has concealed fewer than six senators . 
+ -35.65907
+ No movie has concealed at most six senators . 
+ -40.876804
+
+No pedestrian hides more than three eyes . 
+ -24.478483
+ No pedestrian hides at least three eyes . 
+ -27.244286
+
+No teacher had shocked fewer than nine associations . 
+ -43.06845
+ No teacher had shocked at most nine associations . 
+ -41.319786
+
+No doctor should wear fewer than three shoes . 
+ -40.51413
+ No doctor should wear at most three shoes . 
+ -40.252544
+
+No child has fixed more than three mirrors . 
+ -36.749184
+ No child has fixed at least three mirrors . 
+ -38.232697
+
+No senator was scanning more than eight movies . 
+ -39.386566
+ No senator was scanning at least eight movies . 
+ -39.90724
+
+No waitress likes fewer than three forks . 
+ -25.690395
+ No waitress likes at most three forks . 
+ -32.61473
+
+No rabbit will climb down fewer than eight steps . 
+ -44.59956
+ No rabbit will climb down at most eight steps . 
+ -46.617664
+
+No cashier complains about more than two women . 
+ -30.88015
+ No cashier complains about at least two women . 
+ -29.558775
+
+No essay had irritated more than two patients . 
+ -32.311577
+ No essay had irritated at least two patients . 
+ -31.826775
+
+No person loves fewer than nine pedestrians . 
+ -32.823418
+ No person loves at most nine pedestrians . 
+ -40.57036
+
+No patient had attacked fewer than three children . 
+ -30.326218
+ No patient had attacked at most three children . 
+ -30.475853
+
+No driver toured fewer than five grocery stores . 
+ -29.908947
+ No driver toured at most five grocery stores . 
+ -37.132435
+
+No man kisses fewer than ten patients . 
+ -19.812515
+ No man kisses at most ten patients . 
+ -31.292969
+
+No fish ascends more than nine stairs . 
+ -31.014936
+ No fish ascends at least nine stairs . 
+ -32.919815
+
+No book had aggravated fewer than six patients . 
+ -39.253426
+ No book had aggravated at most six patients . 
+ -38.236526
+
+No waiter went to more than four schools . 
+ -32.427147
+ No waiter went to at least four schools . 
+ -31.568409
+
+No vase is upsetting more than seven schools . 
+ -35.94033
+ No vase is upsetting at least seven schools . 
+ -35.362766
+
+No cashier has gone to fewer than two movie theaters . 
+ -45.41037
+ No cashier has gone to at most two movie theaters . 
+ -44.623047
+
+No adult ascended more than ten steps . 
+ -20.321144
+ No adult ascended at least ten steps . 
+ -25.251495
+
+No student dislikes more than ten libraries . 
+ -27.011223
+ No student dislikes at least ten libraries . 
+ -30.789986
+
+No adult has arrived at more than two schools . 
+ -31.165571
+ No adult has arrived at at least two schools . 
+ -33.08148
+
+No school had respected fewer than eight high schools . 
+ -42.789272
+ No school had respected at most eight high schools . 
+ -43.902893
+
+No teenager is running around fewer than two rivers . 
+ -45.658463
+ No teenager is running around at most two rivers . 
+ -43.380505
+
+No woman complains about fewer than two doctors . 
+ -41.996826
+ No woman complains about at most two doctors . 
+ -40.27214
+
+No cashier will investigate fewer than three cashiers . 
+ -43.432697
+ No cashier will investigate at most three cashiers . 
+ -43.23873
+
+No child complained about fewer than two commentaries . 
+ -43.500202
+ No child complained about at most two commentaries . 
+ -42.11578
+
+No girl has cleaned more than four chairs . 
+ -35.76257
+ No girl has cleaned at least four chairs . 
+ -31.08247
+
+No bank might dislike more than nine women . 
+ -33.96006
+ No bank might dislike at least nine women . 
+ -34.866608
+
+No patient has worried fewer than five hospitals . 
+ -40.094894
+ No patient has worried at most five hospitals . 
+ -40.093903
+
+No adult has cleaned fewer than two glasses . 
+ -37.753395
+ No adult has cleaned at most two glasses . 
+ -36.78328
+
+No person is lifting fewer than seven photographs . 
+ -41.679962
+ No person is lifting at most seven photographs . 
+ -42.066063
+
+No photograph looked like fewer than five books . 
+ -35.100372
+ No photograph looked like at most five books . 
+ -37.39975
+
+No patient is exiting more than three hospitals . 
+ -37.28774
+ No patient is exiting at least three hospitals . 
+ -32.766945
+
+No man lifts fewer than four horses . 
+ -19.686361
+ No man lifts at most four horses . 
+ -29.13207
+
+No student would describe more than ten drivers . 
+ -36.939865
+ No student would describe at least ten drivers . 
+ -36.865402
+
+No dog was breaking more than five forks . 
+ -38.17286
+ No dog was breaking at least five forks . 
+ -37.605045
+
+No grocery store impressed more than four teachers . 
+ -32.42409
+ No grocery store impressed at least four teachers . 
+ -33.418255
+
+No commentary has astounded fewer than eight drivers . 
+ -42.036377
+ No commentary has astounded at most eight drivers . 
+ -39.4883
+
+No woman is examining more than ten commentaries . 
+ -34.787323
+ No woman is examining at least ten commentaries . 
+ -37.404835
+
+No pedestrian might care for more than nine doctors . 
+ -37.070164
+ No pedestrian might care for at least nine doctors . 
+ -37.75342
+
+No turtle has upset more than five customers . 
+ -31.5897
+ No turtle has upset at least five customers . 
+ -35.334312
+
+No girl arrives at fewer than eight closets . 
+ -43.91851
+ No girl arrives at at most eight closets . 
+ -47.596024
+
+No lady was bringing fewer than ten windows . 
+ -38.55477
+ No lady was bringing at most ten windows . 
+ -43.61452
+
+No guy was attacking more than three men . 
+ -27.841244
+ No guy was attacking at least three men . 
+ -29.137112
+
+No actor had walked through more than ten mountains . 
+ -42.293575
+ No actor had walked through at least ten mountains . 
+ -42.50391
+
+No woman escaped from more than five public parks . 
+ -39.392925
+ No woman escaped from at least five public parks . 
+ -35.86402
+
+No university buys fewer than eight dogs . 
+ -25.4672
+ No university buys at most eight dogs . 
+ -29.99846
+
+No actor biked to more than ten schools . 
+ -32.3099
+ No actor biked to at least ten schools . 
+ -33.259525
+
+No waiter has brought more than four eyes . 
+ -31.371742
+ No waiter has brought at least four eyes . 
+ -31.70227
+
+No waiter has lifted fewer than six boxes . 
+ -40.264812
+ No waiter has lifted at most six boxes . 
+ -41.4889
+
+No man had disturbed fewer than four committees . 
+ -39.5154
+ No man had disturbed at most four committees . 
+ -40.891666
+
+No museum will admire fewer than two adults . 
+ -37.192173
+ No museum will admire at most two adults . 
+ -37.51307
+
+No actor was driving to more than seven hospitals . 
+ -40.573757
+ No actor was driving to at least seven hospitals . 
+ -41.767506
+
+No child drops by more than seven libraries . 
+ -29.987509
+ No child drops by at least seven libraries . 
+ -31.181555
+
+No pedestrian has hired more than five children . 
+ -21.57874
+ No pedestrian has hired at least five children . 
+ -28.479048
+
+No waitress complains about more than seven children . 
+ -29.894567
+ No waitress complains about at least seven children . 
+ -30.774773
+
+No driver bikes to more than five college campuses . 
+ -39.977856
+ No driver bikes to at least five college campuses . 
+ -40.752262
+
+No driver approaches more than eight guests . 
+ -25.91415
+ No driver approaches at least eight guests . 
+ -28.515503
+
+No student fired fewer than ten students . 
+ -16.696003
+ No student fired at most ten students . 
+ -32.781536
+
+No girl has climbed down fewer than five stairs . 
+ -47.917637
+ No girl has climbed down at most five stairs . 
+ -50.645885
+
+No student admires fewer than three students . 
+ -19.748955
+ No student admires at most three students . 
+ -27.566025
+
+No person has ran around more than three hills . 
+ -42.65852
+ No person has ran around at least three hills . 
+ -41.77152
+
+No rabbit climbed down fewer than five slopes . 
+ -45.109653
+ No rabbit climbed down at most five slopes . 
+ -47.837902
+
+No actor appreciates fewer than five books . 
+ -18.935242
+ No actor appreciates at most five books . 
+ -30.041763
+
+No lady could remember more than seven doctors . 
+ -32.0995
+ No lady could remember at least seven doctors . 
+ -34.749035
+
+No guy is stunning more than two drivers . 
+ -37.02858
+ No guy is stunning at least two drivers . 
+ -33.68582
+
+No documentary will disgust more than six libraries . 
+ -37.580116
+ No documentary will disgust at least six libraries . 
+ -35.177937
+
+No dancer fixes more than seven glasses . 
+ -28.65772
+ No dancer fixes at least seven glasses . 
+ -29.740656
+
+No snake is embarrassing more than three ladies . 
+ -36.66903
+ No snake is embarrassing at least three ladies . 
+ -33.109222
+
+No company references fewer than three ladies . 
+ -24.381754
+ No company references at most three ladies . 
+ -30.651934
+
+No senator would help more than eight boys . 
+ -32.697758
+ No senator would help at least eight boys . 
+ -33.26663
+
+No senator is hugging more than four students . 
+ -33.32622
+ No senator is hugging at least four students . 
+ -34.757572
+
+No student was kissing fewer than ten guests . 
+ -38.691734
+ No student was kissing at most ten guests . 
+ -42.05991
+
+No teacher arrived at more than five closets . 
+ -38.35737
+ No teacher arrived at at least five closets . 
+ -39.60989
+
+No waiter resembled fewer than six photographs . 
+ -26.250614
+ No waiter resembled at most six photographs . 
+ -33.320507
+
+No senator had argued about more than six customers . 
+ -42.04862
+ No senator had argued about at least six customers . 
+ -42.373917
+
+No boy should clean fewer than four hamsters . 
+ -44.491856
+ No boy should clean at most four hamsters . 
+ -45.6169
+
+No dog concealed fewer than five cars . 
+ -23.832111
+ No dog concealed at most five cars . 
+ -31.913015
+
+No man boycotted more than seven lakes . 
+ -28.794569
+ No man boycotted at least seven lakes . 
+ -29.977322
+
+No actor had revealed more than seven gloves . 
+ -37.278683
+ No actor had revealed at least seven gloves . 
+ -36.513325
+
+No pedestrian has revealed fewer than five hamsters . 
+ -41.650257
+ No pedestrian has revealed at most five hamsters . 
+ -45.114006
+
+No teenager could pass more than eight hospitals . 
+ -36.31672
+ No teenager could pass at least eight hospitals . 
+ -35.5366
+
+No waiter bought fewer than two glasses . 
+ -23.113354
+ No waiter bought at most two glasses . 
+ -27.478737
+
+No senator had fewer than two turtles . 
+ -26.219128
+ No senator had at most two turtles . 
+ -30.264038
+
+No snake is finding more than five ladders . 
+ -35.936626
+ No snake is finding at least five ladders . 
+ -38.34229
+
+No student has appreciated fewer than six closets . 
+ -43.01482
+ No student has appreciated at most six closets . 
+ -42.11356
+
+No driver can explore more than eight banks . 
+ -33.73959
+ No driver can explore at least eight banks . 
+ -35.38316
+
+No hamster had resembled fewer than eight sketches . 
+ -43.363
+ No hamster had resembled at most eight sketches . 
+ -45.98695
+
+No child has listened to fewer than three ladies . 
+ -37.779823
+ No child has listened to at most three ladies . 
+ -35.35035
+
+No turtle will ascend fewer than five ladders . 
+ -43.588604
+ No turtle will ascend at most five ladders . 
+ -43.46452
+
+No snake can alarm more than ten companies . 
+ -31.384148
+ No snake can alarm at least ten companies . 
+ -33.93932
+
+No pedestrian observed more than eight women . 
+ -25.048733
+ No pedestrian observed at least eight women . 
+ -24.693224
+
+No association was helping more than five doctors . 
+ -33.798256
+ No association was helping at least five doctors . 
+ -34.156788
+
+No man wore more than three gloves . 
+ -26.836676
+ No man wore at least three gloves . 
+ -29.088812
+
+No dancer hid more than three vases . 
+ -26.875008
+ No dancer hid at least three vases . 
+ -29.496279
+
+No organization is aggravating more than six people . 
+ -32.44678
+ No organization is aggravating at least six people . 
+ -31.419775
+
+No cat is descending more than four mountains . 
+ -36.851532
+ No cat is descending at least four mountains . 
+ -35.22531
+
+No senator has returned to fewer than five women . 
+ -34.921124
+ No senator has returned to at most five women . 
+ -36.906254
+
+No child found fewer than two reports . 
+ -26.073858
+ No child found at most two reports . 
+ -28.824308
+
+No actress walks through more than four schools . 
+ -31.908165
+ No actress walks through at least four schools . 
+ -30.05106
+
+No teacher loves more than two movies . 
+ -24.927895
+ No teacher loves at least two movies . 
+ -24.833458
+
+No patient passes more than five schools . 
+ -24.716461
+ No patient passes at least five schools . 
+ -26.22068
+
+No teacher is discussing fewer than four students . 
+ -34.672188
+ No teacher is discussing at most four students . 
+ -37.883205
+
+No guy can insult fewer than six patients . 
+ -39.253426
+ No guy can insult at most six patients . 
+ -38.649155
+
+No lake embarrassed fewer than three patients . 
+ -24.76436
+ No lake embarrassed at most three patients . 
+ -29.397795
+
+No student drives to more than three rivers . 
+ -33.58734
+ No student drives to at least three rivers . 
+ -33.52242
+
+No boy runs around fewer than five public parks . 
+ -45.449726
+ No boy runs around at most five public parks . 
+ -47.35887
+
+No lady worked with fewer than eight senators . 
+ -34.467033
+ No lady worked with at most eight senators . 
+ -35.79906
+
+No child praises fewer than six dancers . 
+ -26.910725
+ No child praises at most six dancers . 
+ -33.980614
+
+No teenager observed more than six pedestrians . 
+ -31.34306
+ No teenager observed at least six pedestrians . 
+ -33.15898
+
+No cashier was distracting more than eight guests . 
+ -36.39973
+ No cashier was distracting at least eight guests . 
+ -37.914806
+
+No adult attacks more than two teachers . 
+ -21.136257
+ No adult attacks at least two teachers . 
+ -22.48328
+
+No dancer should skate around more than three hills . 
+ -43.271305
+ No dancer should skate around at least three hills . 
+ -41.476345
+
+No bird might climb down fewer than nine steps . 
+ -44.408302
+ No bird might climb down at most nine steps . 
+ -47.375694
+
+No dancer was concealing more than five actresses . 
+ -38.548786
+ No dancer was concealing at least five actresses . 
+ -40.180878
+
+No senator has respected more than two senators . 
+ -31.892965
+ No senator has respected at least two senators . 
+ -33.61064
+
+No teenager admires fewer than nine dogs . 
+ -25.828613
+ No teenager admires at most nine dogs . 
+ -33.575558
+
+No woman descended fewer than eight mountains . 
+ -27.8294
+ No woman descended at most eight mountains . 
+ -35.107365
+
+No print had worried fewer than ten pedestrians . 
+ -44.919426
+ No print had worried at most ten pedestrians . 
+ -44.859295
+
+No waitress complained about fewer than eight guys . 
+ -42.521584
+ No waitress complained about at most eight guys . 
+ -43.663025
+
+No adult cleaned fewer than two libraries . 
+ -27.104774
+ No adult cleaned at most two libraries . 
+ -31.550602
+
+No pedestrian is firing fewer than four drivers . 
+ -41.486923
+ No pedestrian is firing at most four drivers . 
+ -37.291836
+
+No senator biked to fewer than four art galleries . 
+ -44.05137
+ No senator biked to at most four art galleries . 
+ -44.99858
+
+No doctor was going to more than ten hills . 
+ -39.55655
+ No doctor was going to at least ten hills . 
+ -36.858257
+
+No guy observes more than two patients . 
+ -23.324228
+ No guy observes at least two patients . 
+ -22.713484
+
+No association would alarm more than eight actors . 
+ -39.437458
+ No association would alarm at least eight actors . 
+ -39.090088
+
+No turtle is ascending fewer than four mountains . 
+ -41.057663
+ No turtle is ascending at most four mountains . 
+ -38.73533
+
+No cashier has visited more than ten actresses . 
+ -34.944794
+ No cashier has visited at least ten actresses . 
+ -37.38161
+
+No tomato has resembled fewer than four drawings . 
+ -41.070118
+ No tomato has resembled at most four drawings . 
+ -42.872505
+
+No movie had disturbed fewer than four banks . 
+ -40.564396
+ No movie had disturbed at most four banks . 
+ -40.56863
+
+No fish has broken fewer than six plates . 
+ -40.01759
+ No fish has broken at most six plates . 
+ -40.80742
+
+No legislature might admire more than ten horses . 
+ -30.073336
+ No legislature might admire at least ten horses . 
+ -32.814312
+
+No play was distracting fewer than ten adults . 
+ -40.226406
+ No play was distracting at most ten adults . 
+ -42.53703
+
+No actor had skated around more than eight banks . 
+ -44.131985
+ No actor had skated around at least eight banks . 
+ -44.461784
+
+No cashier worked with more than four guys . 
+ -31.362118
+ No cashier worked with at least four guys . 
+ -30.154882
+
+No man was messing up more than eight cafes . 
+ -44.051037
+ No man was messing up at least eight cafes . 
+ -44.81031
+
+No waiter bothered fewer than eight universities . 
+ -25.33603
+ No waiter bothered at most eight universities . 
+ -33.188347
+
+No boy had helped more than two guys . 
+ -31.339836
+ No boy had helped at least two guys . 
+ -32.026474
+
+No company criticized more than three hospitals . 
+ -25.820333
+ No company criticized at least three hospitals . 
+ -26.744667
+
+No customer concealed fewer than two bananas . 
+ -27.727535
+ No customer concealed at most two bananas . 
+ -32.479637
+
+No boy drove to more than three rivers . 
+ -34.632095
+ No boy drove to at least three rivers . 
+ -33.52242
+
+No customer loves fewer than seven guests . 
+ -26.603704
+ No customer loves at most seven guests . 
+ -34.039066
+
+No student could fix fewer than six bicycles . 
+ -44.34096
+ No student could fix at most six bicycles . 
+ -45.785675
+
+No committee has astounded fewer than three dancers . 
+ -41.63155
+ No committee has astounded at most three dancers . 
+ -37.765247
+
+No dancer went to fewer than three grocery stores . 
+ -40.471233
+ No dancer went to at most three grocery stores . 
+ -41.620846
+
+No teacher had examined more than eight stories . 
+ -29.505432
+ No teacher had examined at least eight stories . 
+ -31.34243
+
+No child has explored fewer than five college campuses . 
+ -45.23444
+ No child has explored at most five college campuses . 
+ -45.59768
+
+No pedestrian might bring fewer than three hamsters . 
+ -43.934837
+ No pedestrian might bring at most three hamsters . 
+ -42.83874
+
+No association had criticized fewer than seven movie theaters . 
+ -45.67349
+ No association had criticized at most seven movie theaters . 
+ -46.73218
+
+No woman was arriving at fewer than four movie theaters . 
+ -47.978134
+ No woman was arriving at at most four movie theaters . 
+ -51.65497
+
+No customer has described fewer than two ladies . 
+ -42.367256
+ No customer has described at most two ladies . 
+ -37.822647
+
+No organization would hate fewer than four commentaries . 
+ -42.59317
+ No organization would hate at most four commentaries . 
+ -43.892536
+
+No driver could lift fewer than five hills . 
+ -40.51742
+ No driver could lift at most five hills . 
+ -40.96578
+
+No pedestrian is revealing more than two closets . 
+ -34.61829
+ No pedestrian is revealing at least two closets . 
+ -34.134624
+
+No guest has helped fewer than two children . 
+ -32.224354
+ No guest has helped at most two children . 
+ -31.03742
+
+No person was running around more than six high schools . 
+ -42.36139
+ No person was running around at least six high schools . 
+ -40.663258
+
+No driver is talking about more than nine essays . 
+ -34.922832
+ No driver is talking about at least nine essays . 
+ -38.276573
+
+No guest has resembled more than ten photographs . 
+ -33.365852
+ No guest has resembled at least ten photographs . 
+ -37.77509
+
+No student is taking fewer than four eyes . 
+ -36.68681
+ No student is taking at most four eyes . 
+ -37.672905
+
+No man will leave more than four waiters . 
+ -35.313156
+ No man will leave at least four waiters . 
+ -34.133945
+
+No doctor can drop by fewer than four restaurants . 
+ -43.703094
+ No doctor can drop by at most four restaurants . 
+ -38.69539
+
+No report is talking about more than two museums . 
+ -33.16098
+ No report is talking about at least two museums . 
+ -32.36834
+
+No glass does aggravate more than two people . 
+ -27.826986
+ No glass does aggravate at least two people . 
+ -29.964516
+
+No waiter was examining fewer than four newspaper articles . 
+ -44.863724
+ No waiter was examining at most four newspaper articles . 
+ -45.544518
+
+No customer is cleaning fewer than nine windows . 
+ -41.465008
+ No customer is cleaning at most nine windows . 
+ -43.577953
+
+No girl cares for fewer than three actors . 
+ -33.838997
+ No girl cares for at most three actors . 
+ -37.06952
+
+No senator heals more than six patients . 
+ -26.132168
+ No senator heals at least six patients . 
+ -25.439175
+
+No adult was observing more than seven drivers . 
+ -39.46181
+ No adult was observing at least seven drivers . 
+ -37.88995
+
+No eye might astound fewer than eight teachers . 
+ -35.63989
+ No eye might astound at most eight teachers . 
+ -42.07809
+
+No turtle distracted more than five children . 
+ -17.835295
+ No turtle distracted at least five children . 
+ -20.141659
+
+No actress should clean fewer than four birds . 
+ -40.16526
+ No actress should clean at most four birds . 
+ -41.4008
+
+No library forgot more than nine commentaries . 
+ -30.177515
+ No library forgot at least nine commentaries . 
+ -32.959873
+
+No dancer does observe more than five guests . 
+ -33.07941
+ No dancer does observe at least five guests . 
+ -33.52604
+
+No student cleans fewer than seven high schools . 
+ -27.588535
+ No student cleans at most seven high schools . 
+ -35.66605
+
+No guy has cared for fewer than two students . 
+ -35.765045
+ No guy has cared for at most two students . 
+ -31.75795
+
+No lady descended fewer than ten mountains . 
+ -28.587112
+ No lady descended at most ten mountains . 
+ -36.121456
+
+No guy cured more than seven patients . 
+ -24.60103
+ No guy cured at least seven patients . 
+ -26.499306
+
+No cashier had argued about fewer than eight doctors . 
+ -48.91603
+ No cashier had argued about at most eight doctors . 
+ -48.01742
+
+No man can conceal fewer than four mirrors . 
+ -41.78608
+ No man can conceal at most four mirrors . 
+ -43.72461
+
+No customer has passed more than ten public parks . 
+ -40.613785
+ No customer has passed at least ten public parks . 
+ -38.447094
+
+No mirror is annoying more than four girls . 
+ -34.562187
+ No mirror is annoying at least four girls . 
+ -31.651915
+
+No actor revealed more than four closets . 
+ -28.913704
+ No actor revealed at least four closets . 
+ -27.110125
+
+No report criticizes more than seven actresses . 
+ -32.450966
+ No report criticizes at least seven actresses . 
+ -33.63372
+
+No person had watched more than five women . 
+ -27.42931
+ No person had watched at least five women . 
+ -29.821182
+
+No slope would distract fewer than two teachers . 
+ -37.617058
+ No slope would distract at most two teachers . 
+ -40.843307
+
+No school is disturbing more than four companies . 
+ -32.9128
+ No school is disturbing at least four companies . 
+ -32.874474
+
+No doctor has investigated more than eight schools . 
+ -31.673536
+ No doctor has investigated at least eight schools . 
+ -34.882866
+
+No boy was talking to more than six patients . 
+ -33.756977
+ No boy was talking to at least six patients . 
+ -31.766983
+
+No organization hated fewer than five commentaries . 
+ -28.003065
+ No organization hated at most five commentaries . 
+ -35.22655
+
+No cashier is leaving more than two rivers . 
+ -30.921879
+ No cashier is leaving at least two rivers . 
+ -29.342728
+
+No boy brought more than two photographs . 
+ -24.06546
+ No boy brought at least two photographs . 
+ -22.0042
+
+No actress went to more than eight restaurants . 
+ -37.05974
+ No actress went to at least eight restaurants . 
+ -37.59937
+
+No school bought more than nine books . 
+ -24.70836
+ No school bought at least nine books . 
+ -26.27705
+
+No driver toured more than two schools . 
+ -20.08034
+ No driver toured at least two schools . 
+ -21.640314
+
+No pedestrian might observe more than six drivers . 
+ -35.72401
+ No pedestrian might observe at least six drivers . 
+ -35.833893
+
+No woman wears fewer than two pants . 
+ -30.371805
+ No woman wears at most two pants . 
+ -35.12391
+
+No cashier cleaned fewer than eight restaurants . 
+ -28.052544
+ No cashier cleaned at most eight restaurants . 
+ -35.33051
+
+No movie was referencing more than six patients . 
+ -33.45853
+ No movie was referencing at least six patients . 
+ -32.915512
+
+No person was running around more than six museums . 
+ -44.93595
+ No person was running around at least six museums . 
+ -44.01455
+
+No pedestrian is buying more than four vases . 
+ -33.386044
+ No pedestrian is buying at least four vases . 
+ -36.464912
+
+No girl arrived at more than four high schools . 
+ -34.8755
+ No girl arrived at at least four high schools . 
+ -35.519585
+
+No guest is worrying more than seven teenagers . 
+ -38.002716
+ No guest is worrying at least seven teenagers . 
+ -39.764595
+
+No dancer could drop by fewer than eight movie theaters . 
+ -48.634502
+ No dancer could drop by at most eight movie theaters . 
+ -45.155193
+
+No child had approached more than two waitresses . 
+ -37.841396
+ No child had approached at least two waitresses . 
+ -34.71546
+
+No pedestrian explores more than seven college campuses . 
+ -33.758884
+ No pedestrian explores at least seven college campuses . 
+ -33.806465
+
+No adult could climb up fewer than ten slopes . 
+ -47.2517
+ No adult could climb up at most ten slopes . 
+ -47.904842
+
+No customer is wearing more than six pants . 
+ -40.42286
+ No customer is wearing at least six pants . 
+ -40.27263
+
+No person runs around fewer than seven cafes . 
+ -46.355835
+ No person runs around at most seven cafes . 
+ -47.62712
+
+No waitress watched fewer than ten teachers . 
+ -19.653473
+ No waitress watched at most ten teachers . 
+ -32.47887
+
+No dog shocked more than seven people . 
+ -19.98355
+ No dog shocked at least seven people . 
+ -25.366781
+
+No senator sees more than eight men . 
+ -20.185526
+ No senator sees at least eight men . 
+ -22.406267
+
+No teacher would disturb fewer than five governments . 
+ -40.03509
+ No teacher would disturb at most five governments . 
+ -43.665333
+
+No customer had escaped from fewer than three boys . 
+ -39.681084
+ No customer had escaped from at most three boys . 
+ -40.24465
+
+No actress is biking to fewer than three high schools . 
+ -46.01646
+ No actress is biking to at most three high schools . 
+ -46.792942
+
+No senator listened to more than four cashiers . 
+ -37.39273
+ No senator listened to at least four cashiers . 
+ -37.83103
+
+No girl could care for fewer than five pedestrians . 
+ -38.35074
+ No girl could care for at most five pedestrians . 
+ -40.52032
+
+No woman had boycotted more than two public parks . 
+ -40.74446
+ No woman had boycotted at least two public parks . 
+ -37.978966
+
+No association might know fewer than three senators . 
+ -40.36118
+ No association might know at most three senators . 
+ -39.54567
+
+No person kisses more than seven doctors . 
+ -27.735455
+ No person kisses at least seven doctors . 
+ -30.684692
+
+No door had astounded more than six associations . 
+ -38.023388
+ No door had astounded at least six associations . 
+ -34.787815
+
+No print disturbed more than seven teenagers . 
+ -28.958488
+ No print disturbed at least seven teenagers . 
+ -33.896805
+
+No teacher should respect fewer than two glaciers . 
+ -44.413494
+ No teacher should respect at most two glaciers . 
+ -41.99725
+
+No actor boasts about fewer than seven waiters . 
+ -46.064995
+ No actor boasts about at most seven waiters . 
+ -47.684998
+
+No drawing was embarrassing more than four organizations . 
+ -37.535187
+ No drawing was embarrassing at least four organizations . 
+ -32.66494
+
+No dancer was exiting fewer than nine lakes . 
+ -42.856968
+ No dancer was exiting at most nine lakes . 
+ -42.78539
+
+No lady toured more than ten cafes . 
+ -30.34983
+ No lady toured at least ten cafes . 
+ -32.108917
+
+No child might break more than four cars . 
+ -33.158806
+ No child might break at least four cars . 
+ -32.547173
+
+No university would forget fewer than nine documentaries . 
+ -45.700653
+ No university would forget at most nine documentaries . 
+ -47.64476
+
+No dancer wore more than eight shoes . 
+ -28.67258
+ No dancer wore at least eight shoes . 
+ -30.5005
+
+No legislature will talk to more than six women . 
+ -34.81679
+ No legislature will talk to at least six women . 
+ -33.55585
+
+No teacher has broken fewer than seven cups . 
+ -41.636475
+ No teacher has broken at most seven cups . 
+ -43.30893
+
+No man remembered more than five college campuses . 
+ -31.624758
+ No man remembered at least five college campuses . 
+ -33.452343
+
+No eye has alarmed fewer than eight governments . 
+ -41.801064
+ No eye has alarmed at most eight governments . 
+ -39.16649
+
+No actor was discussing fewer than two documentaries . 
+ -43.824802
+ No actor was discussing at most two documentaries . 
+ -41.582993
+
+No girl leaves more than seven cashiers . 
+ -35.839996
+ No girl leaves at least seven cashiers . 
+ -37.644318
+
+No pedestrian would complain about more than four cashiers . 
+ -45.807632
+ No pedestrian would complain about at least four cashiers . 
+ -44.27926
+
+No company is embarrassing fewer than five girls . 
+ -39.259216
+ No company is embarrassing at most five girls . 
+ -37.88423
+
+No picture looks like fewer than nine gloves . 
+ -47.323757
+ No picture looks like at most nine gloves . 
+ -46.45717
+
+No senator heals more than three turtles . 
+ -29.540535
+ No senator heals at least three turtles . 
+ -29.585415
+
+No man was attacking more than eight children . 
+ -29.890238
+ No man was attacking at least eight children . 
+ -28.24566
+
+No driver might bore fewer than ten organizations . 
+ -37.77459
+ No driver might bore at most ten organizations . 
+ -42.64766
+
+No woman passed fewer than three college campuses . 
+ -30.76678
+ No woman passed at most three college campuses . 
+ -38.397957
+
+No woman would talk to more than nine adults . 
+ -37.304306
+ No woman would talk to at least nine adults . 
+ -37.268322
+
+No commentary worried more than ten guests . 
+ -23.90095
+ No commentary worried at least ten guests . 
+ -29.89179
+
+No committee is concealing more than three waiters . 
+ -36.687695
+ No committee is concealing at least three waiters . 
+ -37.943806
+
+No woman has helped more than nine adults . 
+ -33.54543
+ No woman has helped at least nine adults . 
+ -36.330013
+
+No box had bored more than two museums . 
+ -36.494324
+ No box had bored at least two museums . 
+ -36.73048
+
+No restaurant should astound fewer than eight adults . 
+ -40.74361
+ No restaurant should astound at most eight adults . 
+ -43.186
+
+No waitress talks to more than nine teenagers . 
+ -38.753597
+ No waitress talks to at least nine teenagers . 
+ -37.948494
+
+No government hires fewer than four actors . 
+ -25.131464
+ No government hires at most four actors . 
+ -32.609
+
+No adult is lifting more than ten snakes . 
+ -38.755222
+ No adult is lifting at least ten snakes . 
+ -39.488625
+
+No actress runs around fewer than three malls . 
+ -45.440422
+ No actress runs around at most three malls . 
+ -45.23609
+
+No mouth astounded fewer than three banks . 
+ -25.248018
+ No mouth astounded at most three banks . 
+ -31.295805
+
+No guy will work with more than two actresses . 
+ -34.499973
+ No guy will work with at least two actresses . 
+ -36.027763
+
+No nose looks like fewer than eight photographs . 
+ -42.949722
+ No nose looks like at most eight photographs . 
+ -41.61416
+
+No patient kisses more than five men . 
+ -20.446905
+ No patient kisses at least five men . 
+ -23.438889
+
+No pedestrian breaks more than nine bicycles . 
+ -32.327847
+ No pedestrian breaks at least nine bicycles . 
+ -34.56284
+
+No actor concealed fewer than seven fish . 
+ -26.753517
+ No actor concealed at most seven fish . 
+ -34.18888
+
+No book talked about fewer than seven girls . 
+ -40.21532
+ No book talked about at most seven girls . 
+ -39.17277
+
+No driver is admiring fewer than nine dancers . 
+ -42.392662
+ No driver is admiring at most nine dancers . 
+ -44.627205
+
+No chair resembles fewer than seven sketches . 
+ -28.759262
+ No chair resembles at most seven sketches . 
+ -36.194622
+
+No woman complained about fewer than eight customers . 
+ -42.937744
+ No woman complained about at most eight customers . 
+ -44.079185
+
+No bank was firing more than seven people . 
+ -29.148325
+ No bank was firing at least seven people . 
+ -27.633127
+
+No mountain has aggravated fewer than four people . 
+ -31.856615
+ No mountain has aggravated at most four people . 
+ -35.811012
+
+No teenager is exiting more than eight banks . 
+ -38.726757
+ No teenager is exiting at least eight banks . 
+ -36.51668
+
+No movie theater could shock fewer than five men . 
+ -47.206474
+ No movie theater could shock at most five men . 
+ -50.15914
+
+No guest dropped by more than eight schools . 
+ -28.280876
+ No guest dropped by at least eight schools . 
+ -28.037245
+
+No driver should walk through more than seven rivers . 
+ -39.833202
+ No driver should walk through at least seven rivers . 
+ -37.668625
+
+No cashier runs around fewer than six malls . 
+ -47.631042
+ No cashier runs around at most six malls . 
+ -48.536858
+
+No story praises fewer than eight people . 
+ -17.293364
+ No story praises at most eight people . 
+ -30.175877
+
+No teenager is cleaning fewer than five public parks . 
+ -44.948822
+ No teenager is cleaning at most five public parks . 
+ -47.388046
+
+No student has arrived at fewer than six public parks . 
+ -46.807636
+ No student has arrived at at most six public parks . 
+ -49.101482
+
+No boy explored more than eight grocery stores . 
+ -33.760376
+ No boy explored at least eight grocery stores . 
+ -34.93498
+
+No adult was running around fewer than seven mountains . 
+ -46.09142
+ No adult was running around at most seven mountains . 
+ -45.540478
+
+No committee might aggravate fewer than five museums . 
+ -42.337757
+ No committee might aggravate at most five museums . 
+ -46.045006
+
+No student does watch fewer than ten teenagers . 
+ -42.261467
+ No student does watch at most ten teenagers . 
+ -43.82679
+
+No customer would tour more than five art galleries . 
+ -43.19127
+ No customer would tour at least five art galleries . 
+ -43.566124
+
+No driver can visit fewer than three dancers . 
+ -40.296787
+ No driver can visit at most three dancers . 
+ -39.308025
+
+No cashier has insulted fewer than four customers . 
+ -39.46384
+ No cashier has insulted at most four customers . 
+ -40.20435
+
+No woman descends fewer than four stairs . 
+ -27.504993
+ No woman descends at most four stairs . 
+ -33.961395
+
+No committee did admire more than four cups . 
+ -31.65035
+ No committee did admire at least four cups . 
+ -31.85929
+
+No committee has described more than eight adults . 
+ -34.571312
+ No committee has described at least eight adults . 
+ -35.22751
+
+No actor insulted more than four hospitals . 
+ -25.332169
+ No actor insulted at least four hospitals . 
+ -27.918
+
+No adult had ascended more than seven stairs . 
+ -34.23867
+ No adult had ascended at least seven stairs . 
+ -38.26022
+
+No person boasted about more than three books . 
+ -32.13819
+ No person boasted about at least three books . 
+ -28.784828
+
+No waiter will run around more than four hills . 
+ -42.981667
+ No waiter will run around at least four hills . 
+ -42.28607
+
+No cat could descend more than eight stairs . 
+ -38.11388
+ No cat could descend at least eight stairs . 
+ -37.55731
+
+No box will disturb fewer than nine actors . 
+ -42.24671
+ No box will disturb at most nine actors . 
+ -45.93206
+
+No actor is returning to fewer than two schools . 
+ -37.19928
+ No actor is returning to at most two schools . 
+ -38.381466
+
+No picture looks like more than six turtles . 
+ -37.865246
+ No picture looks like at least six turtles . 
+ -37.44752
+
+No student has found more than ten eyes . 
+ -33.20792
+ No student has found at least ten eyes . 
+ -33.07336
+
+No actress is disturbing fewer than ten boys . 
+ -39.2006
+ No actress is disturbing at most ten boys . 
+ -39.937775
+
+No guest hides fewer than six books . 
+ -19.635397
+ No guest hides at most six books . 
+ -30.535242
+
+No car is boring more than seven schools . 
+ -37.25013
+ No car is boring at least seven schools . 
+ -35.427395
+
+No doctor kissed more than five waiters . 
+ -28.637552
+ No doctor kissed at least five waiters . 
+ -30.63029
+
+No waiter was passing fewer than eight libraries . 
+ -42.047974
+ No waiter was passing at most eight libraries . 
+ -40.773438
+
+No woman had concealed more than three plays . 
+ -33.215263
+ No woman had concealed at least three plays . 
+ -32.170227
+
+No teacher had skated around fewer than seven banks . 
+ -47.60121
+ No teacher had skated around at most seven banks . 
+ -49.089222
+
+No woman was returning to more than three teachers . 
+ -30.729334
+ No woman was returning to at least three teachers . 
+ -32.55534
+
+No guy is going to fewer than eight restaurants . 
+ -42.142838
+ No guy is going to at most eight restaurants . 
+ -42.05325
+
+No pedestrian had disliked more than four pedestrians . 
+ -37.969692
+ No pedestrian had disliked at least four pedestrians . 
+ -38.72009
+
+No actress cleans more than six birds . 
+ -27.194592
+ No actress cleans at least six birds . 
+ -28.567223
+
+No waitress would talk to more than six children . 
+ -30.087927
+ No waitress would talk to at least six children . 
+ -29.235987
+
+No guy was buying more than three books . 
+ -27.034618
+ No guy was buying at least three books . 
+ -27.701733
+
+No cat resembled more than nine pictures . 
+ -27.777859
+ No cat resembled at least nine pictures . 
+ -28.523342
+
+No person does worry more than four cashiers . 
+ -40.22789
+ No person does worry at least four cashiers . 
+ -42.28356
+
+No teacher is visiting fewer than two boys . 
+ -37.622814
+ No teacher is visiting at most two boys . 
+ -34.036545
+
+No doctor was arriving at more than six banks . 
+ -38.13135
+ No doctor was arriving at at least six banks . 
+ -41.2853
+
+No guest might drop by fewer than five closets . 
+ -45.660507
+ No guest might drop by at most five closets . 
+ -41.396786
+
+No patient is appreciating more than five doctors . 
+ -35.083656
+ No patient is appreciating at least five doctors . 
+ -31.427925
+
+No dog hurt more than five committees . 
+ -24.412828
+ No dog hurt at least five committees . 
+ -28.945318
+
+No person might walk through fewer than ten glaciers . 
+ -50.225487
+ No person might walk through at most ten glaciers . 
+ -50.88635
+
+No boy was hiring fewer than nine waiters . 
+ -40.73611
+ No boy was hiring at most nine waiters . 
+ -45.53172
+
+No association had helped more than ten boys . 
+ -30.912868
+ No association had helped at least ten boys . 
+ -32.40385
+
+No doctor did listen to fewer than five women . 
+ -34.11614
+ No doctor did listen to at most five women . 
+ -37.72117
+
+No teacher attacks more than ten actors . 
+ -26.173857
+ No teacher attacks at least ten actors . 
+ -30.419054
+
+No library conceals fewer than ten waitresses . 
+ -31.039047
+ No library conceals at most ten waitresses . 
+ -38.573387
+
+No senator sounds like fewer than six college campuses . 
+ -47.419018
+ No senator sounds like at most six college campuses . 
+ -47.10074
+
+No dancer did explore fewer than five rivers . 
+ -39.146225
+ No dancer did explore at most five rivers . 
+ -40.725452
+
+No organization admires more than two teachers . 
+ -19.84763
+ No organization admires at least two teachers . 
+ -20.671734
+
+No woman has driven to more than three rivers . 
+ -40.406746
+ No woman has driven to at least three rivers . 
+ -37.973442
+
+No man exited fewer than ten lakes . 
+ -28.703766
+ No man exited at most ten lakes . 
+ -36.23811
+
+No man had broken fewer than ten windows . 
+ -39.395855
+ No man had broken at most ten windows . 
+ -42.701694
+
+No teacher is hugging more than four waitresses . 
+ -42.604313
+ No teacher is hugging at least four waitresses . 
+ -42.14643
+
