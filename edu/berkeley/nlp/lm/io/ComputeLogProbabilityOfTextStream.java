@@ -94,11 +94,13 @@ public class ComputeLogProbabilityOfTextStream
                                 {
                                   //System.out.println(words);
                                   //System.out.println(lm.getLogProb(words));
-				  logProb += lm.getLogProb(words);
+				  logProb += lm.scoreSentence(words);
                                   writer.append(String.valueOf(lm.getLogProb(words)));
                                   writer.append("\n");
                                 }
 				catch (Exception e) {
+                                  writer.append("0.0");
+                                  writer.append("\n");
                         	   System.out.println(words);
                         	}
 			}

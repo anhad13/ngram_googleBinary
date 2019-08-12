@@ -24,7 +24,8 @@ if __name__ == '__main__':
                         resout.write("\n")
 			os.system("java -ea -mx50000m -server -cp .:json-simple-1.1.1.jar:../src edu.berkeley.nlp.lm.io.ComputeLogProbabilityOfTextStream google_GPU.binary out.f_g inp.f_g")
 			os.system("java -ea -mx50000m -server -cp .:json-simple-1.1.1.jar:../src edu.berkeley.nlp.lm.io.ComputeLogProbabilityOfTextStream  google_GPU.binary out.f_b inp.f_b")
-			with open('out.f_g') as f1, open('out.f_b') as f2, open('inp.f_g') as in1, open('inp.f_b') as in2:
+			os.system("wc -l out.f_g");os.system("wc -l out.f_b")
+                        with open('out.f_g') as f1, open('out.f_b') as f2, open('inp.f_g') as in1, open('inp.f_b') as in2:
 				for g, b, ig, ib in zip(f1, f2, in1, in2):
 					if float(g)>float(b):
 						correct+=1

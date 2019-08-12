@@ -42,26 +42,27 @@ public class StupidBackoffLm<W> extends AbstractArrayEncodedNgramLanguageModel<W
 	 * edu.berkeley.nlp.lm.AbstractArrayEncodedNgramLanguageModel#getLogProb
 	 * (int[], int, int)
 	 */
-        @Override
-        public float getLogProb(final int[] ngram, final int startPos, final int endPos) {
+
+        public float getLogProbK(final int[] ngram, final int startPos, final int endPos) {
                 float total = 0.0f;
                 int order = this.getLmOrder();
                 for(int i=startPos; i<=endPos-order; i++)
                 {
                   //if (i+5 > endPos)
                   // break;
-                  float logp = getLogProbeach(ngram, i,i+order);
+                  float logp = getLogProb(ngram, i,i+order);
                   //System.out.println(i);
                   if(!Float.isNaN(logp))
                   	total = total + logp;
                 }
                 if(total == 0.0 || Float.isNaN(total))
 		{
-		  total = getLogProbeach(ngram, startPos, endPos);
+		  total = getLogProb(ngram, startPos, endPos);
 		}
                 return total;
         }
-	public float getLogProbeach(final int[] ngram, final int startPos, final int endPos) {
+        @Override
+	public float getLogProb(final int[] ngram, final int startPos, final int endPos) {
 		final NgramMap<LongRef> localMap = map;
 		float logProb = oovWordLogProb;
 		long probContext = 0L;
